@@ -1,0 +1,234 @@
+RESULTS FOR PERSON 6
+converts to survey 3 and network 1
+position is 1styeargrad
+
+RESULTS FOR 6 and 15: 4.47444444444 HOURS
+position is 1styeargrad
+38: 4.47444444444
+
+RESULTS FOR 6 and 8: 3.685 HOURS
+position is 
+38: 3.685
+
+RESULTS FOR 6 and 7: 2.76416666667 HOURS
+position is 1styeargrad
+38: 2.76416666667
+
+RESULTS FOR 6 and 81: 2.71694444444 HOURS
+position is 1styeargrad
+38: 2.71694444444
+
+RESULTS FOR 6 and 97: 2.59555555556 HOURS
+position is 1styeargrad
+38: 2.59555555556
+
+RESULTS FOR 6 and 29: 2.27055555556 HOURS
+position is mlgrad
+38: 2.27055555556
+
+RESULTS FOR 6 and 96: 1.17944444444 HOURS
+position is mlgrad
+38: 1.17944444444
+
+RESULTS FOR 6 and 78: 0.695 HOURS
+position is mlgrad
+38: 0.695
+
+RESULTS FOR 6 and 86: 0.0922222222222 HOURS
+position is mlgrad
+38: 0.0922222222222
+
+RESULTS FOR 6 and 39: 0.0719444444444 HOURS
+position is mlgrad
+38: 0.0719444444444
+
+RESULTS FOR 6 and 59: 0.0475 HOURS
+position is grad
+38: 0.0475
+
+RESULTS FOR 6 and 16: 0.0241666666667 HOURS
+position is mlurop
+38: 0.0241666666667
+
+RESULTS FOR 6 and 62: 0.00416666666667 HOURS
+position is mlgrad
+38: 0.00416666666667
+
+RESULTS FOR 6 and 9: 0 HOURS
+position is mlUrop
+
+RESULTS FOR 6 and 82: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 28: 0 HOURS
+position is 6years
+
+RESULTS FOR 6 and 35: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 54: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 69: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 6 and 72: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 10: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 95: 0 HOURS
+position is professor
+
+RESULTS FOR 6 and 25: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 44: 0 HOURS
+position is 3rdyeargrad
+
+RESULTS FOR 6 and 51: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 6 and 70: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 6 and 85: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 23: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 88: 0 HOURS
+position is mlstaff
+
+RESULTS FOR 6 and 26: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 6 and 41: 0 HOURS
+position is prof
+
+RESULTS FOR 6 and 60: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 67: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 13: 0 HOURS
+position is mlstaff
+
+RESULTS FOR 6 and 42: 0 HOURS
+position is 
+
+RESULTS FOR 6 and 57: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 76: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 6 and 14: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 6 and 83: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 32: 0 HOURS
+position is graduated
+
+RESULTS FOR 6 and 55: 0 HOURS
+position is urop_hd
+
+RESULTS FOR 6 and 58: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 6 and 4: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 73: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 11: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 6 and 92: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 30: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 45: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 48: 0 HOURS
+position is Germany
+
+RESULTS FOR 6 and 71: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 6 and 1: 0 HOURS
+position is 
+
+RESULTS FOR 6 and 74: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 20: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 89: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 6 and 27: 0 HOURS
+position is 
+
+RESULTS FOR 6 and 46: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 61: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 6 and 64: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 2: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 87: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 17: 0 HOURS
+position is 5 year media lab
+
+RESULTS FOR 6 and 90: 0 HOURS
+position is grad
+
+RESULTS FOR 6 and 36: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 43: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 77: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 80: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 18: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 33: 0 HOURS
+position is mlstaff
+
+RESULTS FOR 6 and 52: 0 HOURS
+position is 
+
+RESULTS FOR 6 and 5: 0 HOURS
+position is 
+
+RESULTS FOR 6 and 93: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 6 and 31: 0 HOURS
+position is sloan
+
+RESULTS FOR 6 and 34: 0 HOURS

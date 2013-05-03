@@ -1,0 +1,387 @@
+RESULTS FOR PERSON 62
+converts to survey 104 and network 92
+position is mlgrad
+RESULTS FOR 62 and 80: 725.3925 HOURS
+position is mlgrad
+1856: 551.631666667
+38: 157.733611111
+1842: 12.7511111111
+1844: 2.1025
+1846: 1.17361111111
+
+RESULTS FOR 62 and 21: 320.226666667 HOURS
+position is mlgrad
+1856: 310.1475
+1846: 8.88194444444
+1842: 0.920277777778
+38: 0.116666666667
+1901: 0.107222222222
+1844: 0.0288888888889
+1851: 0.0125
+1852: 0.0116666666667
+
+RESULTS FOR 62 and 57: 233.455 HOURS
+position is mlgrad
+1842: 109.073333333
+1856: 106.602777778
+38: 10.9583333333
+1851: 5.50916666667
+1844: 1.23083333333
+1846: 0.0663888888889
+1852: 0.0141666666667
+
+RESULTS FOR 62 and 81: 231.133055556 HOURS
+position is 1styeargrad
+1844: 208.046666667
+1842: 17.1941666667
+1846: 2.61611111111
+38: 2.415
+1903: 0.857222222222
+1852: 0.00388888888889
+
+RESULTS FOR 62 and 86: 185.328055556 HOURS
+position is mlgrad
+1842: 166.085277778
+1844: 12.5986111111
+38: 4.07972222222
+1882: 1.06444444444
+1851: 0.799444444444
+1846: 0.526388888889
+1856: 0.0669444444444
+1861: 0.0363888888889
+1914: 0.0313888888889
+1896: 0.0205555555556
+1852: 0.0188888888889
+
+RESULTS FOR 62 and 10: 154.346111111 HOURS
+position is mlgrad
+1977: 84.48
+1842: 65.8363888889
+1844: 1.72916666667
+38: 1.7
+1846: 0.600555555556
+
+RESULTS FOR 62 and 63: 128.791388889 HOURS
+position is mlgrad
+38: 128.791388889
+
+RESULTS FOR 62 and 91: 82.8091666667 HOURS
+position is mlgrad
+38: 82.8091666667
+
+RESULTS FOR 62 and 96: 77.9777777778 HOURS
+position is mlgrad
+1842: 36.3633333333
+38: 28.5163888889
+1856: 4.66277777778
+1844: 4.05722222222
+1846: 2.46472222222
+1845: 1.89916666667
+1852: 0.01
+1853: 0.00416666666667
+
+RESULTS FOR 62 and 94: 72.2469444444 HOURS
+position is mlgrad
+38: 72.2469444444
+
+RESULTS FOR 62 and 43: 66.7505555556 HOURS
+position is mlgrad
+1842: 36.6905555556
+38: 26.8511111111
+1846: 2.7525
+1844: 0.456388888889
+
+RESULTS FOR 62 and 88: 49.0088888889 HOURS
+position is mlstaff
+38: 49.0088888889
+
+RESULTS FOR 62 and 15: 47.2766666667 HOURS
+position is 1styeargrad
+38: 47.2766666667
+
+RESULTS FOR 62 and 27: 38.2480555556 HOURS
+position is 
+38: 38.2480555556
+
+RESULTS FOR 62 and 39: 36.6788888889 HOURS
+position is mlgrad
+1842: 23.3530555556
+1844: 8.20083333333
+38: 4.76138888889
+1853: 0.333611111111
+1845: 0.0252777777778
+1852: 0.00472222222222
+
+RESULTS FOR 62 and 97: 27.1458333333 HOURS
+position is 1styeargrad
+38: 27.1458333333
+
+RESULTS FOR 62 and 58: 23.6819444444 HOURS
+position is mlfrosh
+38: 23.6819444444
+
+RESULTS FOR 62 and 71: 17.0138888889 HOURS
+position is 1styeargrad
+38: 17.0138888889
+
+RESULTS FOR 62 and 5: 16.7572222222 HOURS
+position is 
+38: 16.7572222222
+
+RESULTS FOR 62 and 76: 13.7858333333 HOURS
+position is 1styeargrad
+38: 13.7858333333
+
+RESULTS FOR 62 and 95: 10.1877777778 HOURS
+position is professor
+38: 10.1877777778
+
+RESULTS FOR 62 and 1: 9.69027777778 HOURS
+position is 
+38: 9.69027777778
+
+RESULTS FOR 62 and 44: 9.48666666667 HOURS
+position is 3rdyeargrad
+38: 9.48666666667
+
+RESULTS FOR 62 and 16: 8.73805555556 HOURS
+position is mlurop
+38: 8.73805555556
+
+RESULTS FOR 62 and 6: 8.01083333333 HOURS
+position is 1styeargrad
+38: 8.01083333333
+
+RESULTS FOR 62 and 29: 6.27361111111 HOURS
+position is mlgrad
+38: 6.27361111111
+
+RESULTS FOR 62 and 74: 5.21722222222 HOURS
+position is mlgrad
+1842: 4.90611111111
+38: 0.199722222222
+1861: 0.111388888889
+
+RESULTS FOR 62 and 8: 4.695 HOURS
+position is 
+38: 4.695
+
+RESULTS FOR 62 and 78: 4.6475 HOURS
+position is mlgrad
+38: 4.6475
+
+RESULTS FOR 62 and 89: 4.63805555556 HOURS
+position is 1styeargrad
+38: 4.63805555556
+
+RESULTS FOR 62 and 68: 3.82611111111 HOURS
+position is mlfrosh
+38: 3.82611111111
+
+RESULTS FOR 62 and 70: 3.15611111111 HOURS
+position is mlfrosh
+38: 3.15611111111
+
+RESULTS FOR 62 and 85: 1.51305555556 HOURS
+position is mlgrad
+38: 1.51305555556
+
+RESULTS FOR 62 and 59: 1.04277777778 HOURS
+position is grad
+38: 1.04277777778
+
+RESULTS FOR 62 and 14: 0.980833333333 HOURS
+position is 1styeargrad
+38: 0.980833333333
+
+RESULTS FOR 62 and 7: 0.723888888889 HOURS
+position is 1styeargrad
+38: 0.723888888889
+
+RESULTS FOR 62 and 33: 0.216388888889 HOURS
+position is mlstaff
+38: 0.216388888889
+
+RESULTS FOR 62 and 3: 0.155833333333 HOURS
+position is mlfrosh
+38: 0.155833333333
+
+RESULTS FOR 62 and 49: 0.112777777778 HOURS
+position is mlgrad
+38: 0.112777777778
+
+RESULTS FOR 62 and 18: 0.0580555555556 HOURS
+position is mlgrad
+38: 0.0580555555556
+
+RESULTS FOR 62 and 93: 0.0316666666667 HOURS
+position is mlgrad
+38: 0.0316666666667
+
+RESULTS FOR 62 and 60: 0.0163888888889 HOURS
+position is mlgrad
+38: 0.0163888888889
+
+RESULTS FOR 62 and 35: 0.00583333333333 HOURS
+position is sloan
+38: 0.00583333333333
+
+RESULTS FOR 62 and 64: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 2: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 62 and 87: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 62 and 17: 0 HOURS
+position is 5 year media lab
+
+RESULTS FOR 62 and 38: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 53: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 62 and 31: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 54: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 62 and 75: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 62 and 24: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 62 and 41: 0 HOURS
+position is prof
+
+RESULTS FOR 62 and 51: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 62 and 42: 0 HOURS
+position is 
+
+RESULTS FOR 62 and 12: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 65: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 62 and 84: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 22: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 79: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 9: 0 HOURS
+position is mlUrop
+
+RESULTS FOR 62 and 66: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 28: 0 HOURS
+position is 6years
+
+RESULTS FOR 62 and 19: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 45: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 32: 0 HOURS
+position is graduated
+
+RESULTS FOR 62 and 55: 0 HOURS
+position is urop_hd
+
+RESULTS FOR 62 and 72: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 25: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 82: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 62 and 46: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 61: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 62 and 48: 0 HOURS
+position is Germany
+
+RESULTS FOR 62 and 69: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 62 and 26: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 62 and 13: 0 HOURS
+position is mlstaff
+
+RESULTS FOR 62 and 23: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 36: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 67: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 52: 0 HOURS
+position is 
+
+RESULTS FOR 62 and 73: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 11: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 62 and 92: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 30: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 62 and 83: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 62 and 47: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 62 and 34: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 62 and 4: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 40: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 50: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 90: 0 HOURS
+position is grad
+
+RESULTS FOR 62 and 20: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 37: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 62 and 56: 0 HOURS
+position is sloan
+
+RESULTS FOR 62 and 77: 0 HOURS
+position is sloan
+

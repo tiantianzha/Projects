@@ -1,0 +1,664 @@
+Opening cellspan1-1.txt
+Opening cellspan1-2.txt
+Opening cellspan2-1.txt
+Opening cellspan2-2.txt
+Opening cellspan3-1.txt
+Opening cellspan3-2.txt
+Opening cellspan4-1.txt
+Opening cellspan5-1.txt
+Opening cellspan6-1.txt
+Opening cellspan7-1.txt
+Opening cellspan7-2.txt
+Opening cellspan8-1.txt
+Opening cellspan9-1.txt
+Opening cellspan10-1.txt
+Opening cellspan10-2.txt
+Opening cellspan11-1.txt
+Opening cellspan12-1.txt
+Opening cellspan13-1.txt
+Opening cellspan14-1.txt
+Opening cellspan14-2.txt
+Opening cellspan15-1.txt
+Opening cellspan16-1.txt
+Opening cellspan16-2.txt
+Opening cellspan17-1.txt
+Opening cellspan17-2.txt
+Opening cellspan18-1.txt
+Opening cellspan18-2.txt
+Opening cellspan19-1.txt
+Opening cellspan20-1.txt
+Opening cellspan20-2.txt
+Opening cellspan21-1.txt
+Opening cellspan22-1.txt
+Opening cellspan22-2.txt
+Opening cellspan23-1.txt
+Opening cellspan24-1.txt
+Opening cellspan24-2.txt
+Opening cellspan26-1.txt
+Opening cellspan27-1.txt
+Opening cellspan28-1.txt
+Opening cellspan29-1.txt
+Opening cellspan29-2.txt
+Opening cellspan30-1.txt
+Opening cellspan31-1.txt
+Opening cellspan32-2.txt
+Opening cellspan33-1.txt
+Opening cellspan34-1.txt
+Opening cellspan35-1.txt
+Opening cellspan35-2.txt
+Opening cellspan36-1.txt
+Opening cellspan37-1.txt
+Opening cellspan37-2.txt
+Opening cellspan38-1.txt
+Opening cellspan39-1.txt
+Opening cellspan39-2.txt
+Opening cellspan40-1.txt
+Opening cellspan41-1.txt
+Opening cellspan41-2.txt
+Opening cellspan42-1.txt
+Opening cellspan43-1.txt
+Opening cellspan44-1.txt
+Opening cellspan45-1.txt
+Opening cellspan46-1.txt
+Opening cellspan47-1.txt
+Opening cellspan49-1.txt
+Opening cellspan50-1.txt
+Opening cellspan50-2.txt
+Opening cellspan51-1.txt
+Opening cellspan54-1.txt
+Opening cellspan56-1.txt
+Opening cellspan57-1.txt
+Opening cellspan57-2.txt
+Opening cellspan58-1.txt
+Opening cellspan59-1.txt
+Opening cellspan60-1.txt
+Opening cellspan60-2.txt
+Opening cellspan61-1.txt
+Opening cellspan62-1.txt
+Opening cellspan63-1.txt
+Opening cellspan65-1.txt
+Opening cellspan65-2.txt
+Opening cellspan66-1.txt
+Opening cellspan68-1.txt
+Opening cellspan69-1.txt
+Opening cellspan70-1.txt
+Opening cellspan71-1.txt
+Opening cellspan72-1.txt
+Opening cellspan72-2.txt
+Opening cellspan73-1.txt
+Opening cellspan73-2.txt
+Opening cellspan74-1.txt
+Opening cellspan74-2.txt
+Opening cellspan75-1.txt
+Opening cellspan76-1.txt
+Opening cellspan76-2.txt
+Opening cellspan77-1.txt
+Opening cellspan77-2.txt
+Opening cellspan78-1.txt
+Opening cellspan78-2.txt
+Opening cellspan79-1.txt
+Opening cellspan80-1.txt
+Opening cellspan81-1.txt
+Opening cellspan81-2.txt
+Opening cellspan82-1.txt
+Opening cellspan82-2.txt
+Opening cellspan83-1.txt
+Opening cellspan84-1.txt
+Opening cellspan85-1.txt
+Opening cellspan86-1.txt
+Opening cellspan86-2.txt
+Opening cellspan88-1.txt
+Opening cellspan89-1.txt
+Opening cellspan90-1.txt
+Opening cellspan91-1.txt
+Opening cellspan91-2.txt
+Opening cellspan92-1.txt
+Opening cellspan93-1.txt
+Opening cellspan94-1.txt
+Opening cellspan94-2.txt
+Opening cellspan95-1.txt
+Opening cellspan95-2.txt
+Opening cellspan96-1.txt
+Opening cellspan97-1.txt
+sum for person 3 is 1.0
+sum for person 9 is 1.0
+sum for person 16 is 1.0
+sum for person 24 is 1.0
+sum for person 27 is 1.0
+sum for person 58 is 1.0
+sum for person 61 is 1.0
+sum for person 68 is 1.0
+sum for person 70 is 1.0
+sum for person 2 is 1.0
+sum for person 5 is 1.0
+sum for person 8 is 1.0
+sum for person 10 is 1.0
+sum for person 11 is 1.0
+sum for person 14 is 1.0
+sum for person 15 is 1.0
+sum for person 17 is 1.0
+sum for person 21 is 1.0
+sum for person 26 is 1.0
+sum for person 28 is 1.0
+sum for person 30 is 1.0
+sum for person 34 is 1.0
+sum for person 37 is 1.0
+sum for person 43 is 1.0
+sum for person 44 is 1.0
+sum for person 47 is 1.0
+sum for person 49 is 1.0
+sum for person 51 is 1.0
+sum for person 54 is 1.0
+sum for person 60 is 1.0
+sum for person 63 is 1.0
+sum for person 65 is 1.0
+sum for person 69 is 1.0
+sum for person 71 is 1.0
+sum for person 74 is 1.0
+sum for person 75 is 1.0
+sum for person 81 is 1.0
+sum for person 85 is 1.0
+sum for person 89 is 1.0
+sum for person 91 is 1.0
+sum for person 93 is 1.0
+sum for person 94 is 1.0
+sum for person 97 is 1.0
+sum for person 4 is 1.0
+sum for person 12 is 1.0
+sum for person 19 is 1.0
+sum for person 20 is 1.0
+sum for person 22 is 1.0
+sum for person 23 is 1.0
+sum for person 31 is 1.0
+sum for person 35 is 1.0
+sum for person 36 is 1.0
+sum for person 38 is 1.0
+sum for person 40 is 1.0
+sum for person 42 is 1.0
+sum for person 45 is 1.0
+sum for person 46 is 1.0
+sum for person 50 is 1.0
+sum for person 56 is 1.0
+sum for person 66 is 1.0
+sum for person 72 is 1.0
+sum for person 73 is 1.0
+sum for person 77 is 1.0
+sum for person 79 is 1.0
+sum for person 82 is 1.0
+sum for person 84 is 1.0
+sum for person 92 is 1.0
+sum for person 13 is 1.0
+sum for person 33 is 1.0
+sum for person 41 is 1.0
+sum for person 76 is 1.0
+sum for person 88 is 1.0
+sum for person 95 is 1.0
+printing profiles
+0
+1.0
+1.0
+1.0
+1.0
+RANKED SIMILARITIES: 1 (converts to 0, then to 0) position: 0
+RANKED SIMILARITIES: 2 (converts to 29, then to 25) position: 2
+WRONG
+2 4 1.43602656041 (55, 46)
+2 2 1.44367606456 (29, 25)
+2 1 1.53240945853 (0, 0)
+2 3 1.56676701083 (32, 28)
+RANKED SIMILARITIES: 3 (converts to 32, then to 28) position: 1
+WRONG
+3 4 1.15467340967 (55, 46)
+3 1 1.25490528585 (0, 0)
+3 2 1.29947247955 (29, 25)
+3 3 1.57342987623 (32, 28)
+RANKED SIMILARITIES: 4 (converts to 55, then to 46) position: 3
+CORRECT
+4 3 1.51672755852 (32, 28)
+4 1 1.64264389886 (0, 0)
+4 4 1.64607038022 (55, 46)
+4 2 1.66552145775 (29, 25)
+RANKED SIMILARITIES: 5 (converts to 24, then to 0) position: 2
+WRONG
+5 4 1.47150792252 (55, 46)
+5 3 1.5247900325 (32, 28)
+5 1 1.63657802956 (0, 0)
+5 2 1.64433756336 (29, 25)
+RANKED SIMILARITIES: 6 (converts to 3, then to 1) position: 0
+RANKED SIMILARITIES: 7 (converts to 21, then to 18) position: 0
+RANKED SIMILARITIES: 8 (converts to 18, then to 0) position: 2
+WRONG
+8 4 0.956925293865 (55, 46)
+8 2 1.22868678861 (29, 25)
+8 1 1.23988462371 (0, 0)
+8 3 1.51962049557 (32, 28)
+RANKED SIMILARITIES: 9 (converts to 0, then to 0) position: 1
+WRONG
+9 3 1.5366432579 (32, 28)
+9 4 1.62887083622 (55, 46)
+9 1 1.64746957961 (0, 0)
+9 2 1.66401340372 (29, 25)
+RANKED SIMILARITIES: 10 (converts to 37, then to 32) position: 2
+CORRECT
+10 2 1.5764618871 (29, 25)
+10 3 1.65600816264 (32, 28)
+10 4 1.75321602745 (55, 46)
+10 1 1.84879261522 (0, 0)
+RANKED SIMILARITIES: 11 (converts to 88, then to 76) position: 2
+WRONG
+11 1 1.00195135954 (0, 0)
+11 3 1.55155205955 (32, 28)
+11 2 1.61664506142 (29, 25)
+11 4 1.75500996985 (55, 46)
+RANKED SIMILARITIES: 12 (converts to 97, then to 85) position: 3
+WRONG
+12 4 1.52207445487 (55, 46)
+12 3 1.5329243064 (32, 28)
+12 1 1.57217584719 (0, 0)
+12 2 1.62085427277 (29, 25)
+RANKED SIMILARITIES: 13 (converts to 87, then to 75) position: 4
+CORRECT
+13 4 1.44627487604 (55, 46)
+13 3 1.66174065766 (32, 28)
+13 1 1.69873202916 (0, 0)
+13 2 1.74424305553 (29, 25)
+RANKED SIMILARITIES: 14 (converts to 16, then to 14) position: 2
+WRONG
+14 4 1.11406295635 (55, 46)
+14 1 1.26937812942 (0, 0)
+14 2 1.30991856636 (29, 25)
+14 3 1.58600506321 (32, 28)
+RANKED SIMILARITIES: 15 (converts to 15, then to 13) position: 2
+WRONG
+15 3 1.42678517795 (32, 28)
+15 2 1.50893311776 (29, 25)
+15 1 1.5111207965 (0, 0)
+15 4 1.52054681719 (55, 46)
+RANKED SIMILARITIES: 16 (converts to 102, then to 90) position: 1
+WRONG
+16 4 1.0045344394 (55, 46)
+16 1 1.24025273388 (0, 0)
+16 2 1.25504752857 (29, 25)
+16 3 1.55752995806 (32, 28)
+RANKED SIMILARITIES: 17 (converts to 0, then to 0) position: 2
+WRONG
+17 1 1.01615981843 (0, 0)
+17 3 1.38064731707 (32, 28)
+17 2 1.53403447808 (29, 25)
+17 4 1.72588464982 (55, 46)
+RANKED SIMILARITIES: 18 (converts to 30, then to 26) position: 0
+RANKED SIMILARITIES: 19 (converts to 56, then to 47) position: 3
+CORRECT
+19 3 1.53172772747 (32, 28)
+19 4 1.63608298653 (55, 46)
+19 1 1.65318381923 (0, 0)
+19 2 1.66511255026 (29, 25)
+RANKED SIMILARITIES: 20 (converts to 74, then to 63) position: 3
+WRONG
+20 1 1.00763656504 (0, 0)
+20 3 1.36952928257 (32, 28)
+20 2 1.49510423389 (29, 25)
+20 4 1.63624006202 (55, 46)
+RANKED SIMILARITIES: 21 (converts to 103, then to 91) position: 2
+WRONG
+21 3 1.57230872432 (32, 28)
+21 2 1.58328912515 (29, 25)
+21 4 1.77041205078 (55, 46)
+21 1 1.86598863856 (0, 0)
+RANKED SIMILARITIES: 22 (converts to 49, then to 41) position: 3
+WRONG
+22 1 1.19470791775 (0, 0)
+22 3 1.37595795572 (32, 28)
+22 2 1.56394810836 (29, 25)
+22 4 1.73301876335 (55, 46)
+RANKED SIMILARITIES: 23 (converts to 61, then to 51) position: 3
+WRONG
+23 1 1.26062775121 (0, 0)
+23 3 1.38510566545 (32, 28)
+23 2 1.57006013165 (29, 25)
+23 4 1.7343462963 (55, 46)
+RANKED SIMILARITIES: 24 (converts to 78, then to 67) position: 1
+CORRECT
+24 1 0.957924076015 (0, 0)
+24 3 1.51335651294 (32, 28)
+24 2 1.58950495941 (29, 25)
+24 4 1.73088703964 (55, 46)
+RANKED SIMILARITIES: 25 (converts to 0, then to 0) position: 3
+RANKED SIMILARITIES: 26 (converts to 63, then to 53) position: 2
+WRONG
+26 1 0.917631699073 (0, 0)
+26 3 1.45774522675 (32, 28)
+26 2 1.53180744391 (29, 25)
+26 4 1.67146528601 (55, 46)
+RANKED SIMILARITIES: 27 (converts to 34, then to 0) position: 1
+CORRECT
+27 1 0.588020244312 (0, 0)
+27 3 1.11995057381 (32, 28)
+27 2 1.16994955882 (29, 25)
+27 4 1.34656219479 (55, 46)
+RANKED SIMILARITIES: 28 (converts to 0, then to 0) position: 2
+CORRECT
+28 2 1.55587779045 (29, 25)
+28 3 1.67714780836 (32, 28)
+28 4 1.73942052522 (55, 46)
+28 1 1.834997113 (0, 0)
+RANKED SIMILARITIES: 29 (converts to 4, then to 2) position: 0
+RANKED SIMILARITIES: 30 (converts to 68, then to 57) position: 2
+CORRECT
+30 2 1.46087868162 (29, 25)
+30 3 1.54067899261 (32, 28)
+30 4 1.65359857036 (55, 46)
+30 1 1.74917515814 (0, 0)
+RANKED SIMILARITIES: 31 (converts to 0, then to 0) position: 3
+WRONG
+31 4 1.15818772284 (55, 46)
+31 1 1.3019804482 (0, 0)
+31 2 1.3650979053 (29, 25)
+31 3 1.59444751937 (32, 28)
+RANKED SIMILARITIES: 32 (converts to 0, then to 0) position: 0
+RANKED SIMILARITIES: 33 (converts to 41, then to 35) position: 4
+CORRECT
+33 4 1.1027352339 (55, 46)
+33 1 1.26933989806 (0, 0)
+33 2 1.31370574834 (29, 25)
+33 3 1.57578565054 (32, 28)
+RANKED SIMILARITIES: 34 (converts to 96, then to 84) position: 2
+WRONG
+34 4 1.31346202815 (55, 46)
+34 2 1.47137510048 (29, 25)
+34 1 1.54765297908 (0, 0)
+34 3 1.5743713789 (32, 28)
+RANKED SIMILARITIES: 35 (converts to 0, then to 0) position: 3
+CORRECT
+35 3 1.0650253643 (32, 28)
+35 1 1.07800826914 (0, 0)
+35 2 1.22611584774 (29, 25)
+35 4 1.44039446466 (55, 46)
+RANKED SIMILARITIES: 36 (converts to 54, then to 45) position: 3
+WRONG
+36 1 0.997551096418 (0, 0)
+36 3 1.40958013435 (32, 28)
+36 2 1.58250596579 (29, 25)
+36 4 1.75567436099 (55, 46)
+RANKED SIMILARITIES: 37 (converts to 94, then to 82) position: 2
+WRONG
+37 4 1.04010809281 (55, 46)
+37 2 1.06384670581 (29, 25)
+37 1 1.2403355324 (0, 0)
+37 3 1.3944146424 (32, 28)
+RANKED SIMILARITIES: 38 (converts to 52, then to 43) position: 3
+WRONG
+38 2 1.60677251316 (29, 25)
+38 3 1.6196800582 (32, 28)
+38 4 1.77624165478 (55, 46)
+38 1 1.87181824256 (0, 0)
+RANKED SIMILARITIES: 39 (converts to 60, then to 50) position: 0
+RANKED SIMILARITIES: 40 (converts to 98, then to 86) position: 3
+WRONG
+40 1 0.657687658826 (0, 0)
+40 2 1.15004882098 (29, 25)
+40 4 1.1820723073 (55, 46)
+40 3 1.29904527073 (32, 28)
+RANKED SIMILARITIES: 41 (converts to 0, then to 0) position: 4
+CORRECT
+41 4 1.07824571647 (55, 46)
+41 1 1.42988430271 (0, 0)
+41 2 1.43397423432 (29, 25)
+41 3 1.62798488314 (32, 28)
+RANKED SIMILARITIES: 42 (converts to 51, then to 0) position: 3
+WRONG
+42 2 1.59533891 (29, 25)
+42 3 1.61101358036 (32, 28)
+42 4 1.74084974546 (55, 46)
+42 1 1.83642633324 (0, 0)
+RANKED SIMILARITIES: 43 (converts to 101, then to 89) position: 2
+CORRECT
+43 2 1.51290343137 (29, 25)
+43 3 1.5405863107 (32, 28)
+43 4 1.71820595478 (55, 46)
+43 1 1.81378254256 (0, 0)
+RANKED SIMILARITIES: 44 (converts to 0, then to 0) position: 2
+WRONG
+44 4 0.922117683455 (55, 46)
+44 1 1.07636287529 (0, 0)
+44 2 1.14158270864 (29, 25)
+44 3 1.38021743427 (32, 28)
+RANKED SIMILARITIES: 45 (converts to 84, then to 73) position: 3
+WRONG
+45 4 1.1126567889 (55, 46)
+45 1 1.29795259674 (0, 0)
+45 2 1.36545718136 (29, 25)
+45 3 1.54190975625 (32, 28)
+RANKED SIMILARITIES: 46 (converts to 93, then to 81) position: 3
+WRONG
+46 1 0.93918625573 (0, 0)
+46 3 1.46542236171 (32, 28)
+46 2 1.55606117639 (29, 25)
+46 4 1.69658749346 (55, 46)
+RANKED SIMILARITIES: 47 (converts to 90, then to 78) position: 2
+CORRECT
+47 2 1.54085634977 (29, 25)
+47 4 1.54239700959 (55, 46)
+47 3 1.58155657393 (32, 28)
+47 1 1.62901646111 (0, 0)
+RANKED SIMILARITIES: 48 (converts to 0, then to 0) position: 0
+RANKED SIMILARITIES: 49 (converts to 50, then to 42) position: 2
+WRONG
+49 1 0.970708536229 (0, 0)
+49 3 1.39986005602 (32, 28)
+49 2 1.54331051868 (29, 25)
+49 4 1.72542182307 (55, 46)
+RANKED SIMILARITIES: 50 (converts to 86, then to 74) position: 3
+CORRECT
+50 3 1.57572576627 (32, 28)
+50 2 1.61725524879 (29, 25)
+50 4 1.76824121653 (55, 46)
+50 1 1.8638178043 (0, 0)
+RANKED SIMILARITIES: 51 (converts to 58, then to 49) position: 2
+WRONG
+51 4 1.17607254748 (55, 46)
+51 1 1.33002221235 (0, 0)
+51 2 1.39534456804 (29, 25)
+51 3 1.62969713413 (32, 28)
+RANKED SIMILARITIES: 52 (converts to 0, then to 0) position: 0
+RANKED SIMILARITIES: 53 (converts to 43, then to 37) position: 2
+RANKED SIMILARITIES: 54 (converts to 91, then to 0) position: 2
+WRONG
+54 4 1.1215514621 (55, 46)
+54 1 1.28683732676 (0, 0)
+54 2 1.30688958717 (29, 25)
+54 3 1.58005488947 (32, 28)
+RANKED SIMILARITIES: 55 (converts to 0, then to 0) position: 1
+RANKED SIMILARITIES: 56 (converts to 95, then to 83) position: 3
+WRONG
+56 4 1.63854250135 (55, 46)
+56 3 1.68876784433 (32, 28)
+56 1 1.71999498965 (0, 0)
+56 2 1.77550503017 (29, 25)
+RANKED SIMILARITIES: 57 (converts to 23, then to 20) position: 0
+RANKED SIMILARITIES: 58 (converts to 33, then to 29) position: 1
+CORRECT
+58 1 0.781625621321 (0, 0)
+58 3 1.33230289672 (32, 28)
+58 2 1.4026739829 (29, 25)
+58 4 1.54202334618 (55, 46)
+RANKED SIMILARITIES: 59 (converts to 7, then to 5) position: 0
+RANKED SIMILARITIES: 60 (converts to 67, then to 56) position: 2
+CORRECT
+60 2 1.75507684404 (29, 25)
+60 4 1.75857611506 (55, 46)
+60 3 1.80087799366 (32, 28)
+60 1 1.81253267274 (0, 0)
+RANKED SIMILARITIES: 61 (converts to 79, then to 68) position: 1
+CORRECT
+61 1 0.956192614422 (0, 0)
+61 3 1.52202682406 (32, 28)
+61 2 1.59289555925 (29, 25)
+61 4 1.73065942442 (55, 46)
+RANKED SIMILARITIES: 62 (converts to 104, then to 92) position: 0
+RANKED SIMILARITIES: 63 (converts to 36, then to 31) position: 2
+WRONG
+63 4 0.945258144164 (55, 46)
+63 1 1.09012412579 (0, 0)
+63 2 1.15290988126 (29, 25)
+63 3 1.3904006892 (32, 28)
+RANKED SIMILARITIES: 64 (converts to 66, then to 55) position: 3
+RANKED SIMILARITIES: 65 (converts to 53, then to 44) position: 2
+WRONG
+65 3 1.49446527088 (32, 28)
+65 1 1.60899731722 (0, 0)
+65 2 1.60903930218 (29, 25)
+65 4 1.62126392668 (55, 46)
+RANKED SIMILARITIES: 66 (converts to 42, then to 36) position: 3
+WRONG
+66 1 0.952788047911 (0, 0)
+66 3 1.49016304293 (32, 28)
+66 2 1.56925450695 (29, 25)
+66 4 1.709695399 (55, 46)
+RANKED SIMILARITIES: 67 (converts to 0, then to 0) position: 3
+RANKED SIMILARITIES: 68 (converts to 38, then to 33) position: 1
+WRONG
+68 4 1.11512513948 (55, 46)
+68 1 1.25099084375 (0, 0)
+68 2 1.33105613744 (29, 25)
+68 3 1.5627292687 (32, 28)
+RANKED SIMILARITIES: 69 (converts to 28, then to 24) position: 2
+WRONG
+69 4 1.20475266152 (55, 46)
+69 1 1.34540418115 (0, 0)
+69 2 1.41098251388 (29, 25)
+69 3 1.64210367691 (32, 28)
+RANKED SIMILARITIES: 70 (converts to 40, then to 34) position: 1
+CORRECT
+70 1 0.949871149201 (0, 0)
+70 3 1.51475619221 (32, 28)
+70 2 1.59120559194 (29, 25)
+70 4 1.7318764284 (55, 46)
+RANKED SIMILARITIES: 71 (converts to 20, then to 17) position: 2
+WRONG
+71 1 0.636128135025 (0, 0)
+71 3 1.16549289233 (32, 28)
+71 2 1.25224708597 (29, 25)
+71 4 1.39730270154 (55, 46)
+RANKED SIMILARITIES: 72 (converts to 81, then to 70) position: 3
+CORRECT
+72 3 1.37283256051 (32, 28)
+72 2 1.37372359879 (29, 25)
+72 4 1.5653414933 (55, 46)
+72 1 1.66037719051 (0, 0)
+RANKED SIMILARITIES: 73 (converts to 70, then to 59) position: 3
+WRONG
+73 4 1.08486726732 (55, 46)
+73 1 1.23824638061 (0, 0)
+73 2 1.29317664148 (29, 25)
+73 3 1.53703026298 (32, 28)
+RANKED SIMILARITIES: 74 (converts to 75, then to 64) position: 2
+CORRECT
+74 2 1.58508188611 (29, 25)
+74 3 1.65681669059 (32, 28)
+74 4 1.73196763137 (55, 46)
+74 1 1.82754421915 (0, 0)
+RANKED SIMILARITIES: 75 (converts to 100, then to 88) position: 2
+WRONG
+75 4 1.12823604659 (55, 46)
+75 2 1.19915842266 (29, 25)
+75 1 1.27233528394 (0, 0)
+75 3 1.48897327551 (32, 28)
+RANKED SIMILARITIES: 76 (converts to 82, then to 71) position: 4
+CORRECT
+76 4 0.912792766817 (55, 46)
+76 2 1.08169801915 (29, 25)
+76 1 1.12919469203 (0, 0)
+76 3 1.26759586303 (32, 28)
+RANKED SIMILARITIES: 77 (converts to 89, then to 77) position: 3
+CORRECT
+77 3 1.50825401596 (32, 28)
+77 2 1.62650236508 (29, 25)
+77 1 1.65261786381 (0, 0)
+77 4 1.69443377211 (55, 46)
+RANKED SIMILARITIES: 78 (converts to 12, then to 10) position: 0
+RANKED SIMILARITIES: 79 (converts to 76, then to 65) position: 3
+WRONG
+79 4 0.991006435762 (55, 46)
+79 1 1.26428746038 (0, 0)
+79 2 1.27634897337 (29, 25)
+79 3 1.53592435736 (32, 28)
+RANKED SIMILARITIES: 80 (converts to 27, then to 23) position: 0
+RANKED SIMILARITIES: 81 (converts to 19, then to 16) position: 2
+CORRECT
+81 2 1.63148340085 (29, 25)
+81 3 1.65904152247 (32, 28)
+81 4 1.76133303576 (55, 46)
+81 1 1.85690962354 (0, 0)
+RANKED SIMILARITIES: 82 (converts to 83, then to 72) position: 3
+CORRECT
+82 3 1.38919908166 (32, 28)
+82 1 1.50853972633 (0, 0)
+82 4 1.52420053883 (55, 46)
+82 2 1.5311461213 (29, 25)
+RANKED SIMILARITIES: 83 (converts to 5, then to 3) position: 0
+RANKED SIMILARITIES: 84 (converts to 77, then to 66) position: 3
+CORRECT
+84 3 1.5559666664 (32, 28)
+84 2 1.6007325308 (29, 25)
+84 4 1.757234214 (55, 46)
+84 1 1.85280987911 (0, 0)
+RANKED SIMILARITIES: 85 (converts to 6, then to 4) position: 2
+WRONG
+85 3 1.51796986301 (32, 28)
+85 2 1.56786820085 (29, 25)
+85 1 1.61707154246 (0, 0)
+85 4 1.62171384072 (55, 46)
+RANKED SIMILARITIES: 86 (converts to 8, then to 6) position: 0
+RANKED SIMILARITIES: 87 (converts to 92, then to 80) position: 0
+RANKED SIMILARITIES: 88 (converts to 17, then to 15) position: 4
+CORRECT
+88 4 0.960477558454 (55, 46)
+88 1 1.24730566923 (0, 0)
+88 2 1.28567762078 (29, 25)
+88 3 1.51947451457 (32, 28)
+RANKED SIMILARITIES: 89 (converts to 26, then to 22) position: 2
+WRONG
+89 4 1.0834138418 (55, 46)
+89 1 1.23999405085 (0, 0)
+89 2 1.29634887387 (29, 25)
+89 3 1.54334029347 (32, 28)
+RANKED SIMILARITIES: 90 (converts to 13, then to 11) position: 0
+RANKED SIMILARITIES: 91 (converts to 35, then to 30) position: 2
+WRONG
+91 3 1.41721086521 (32, 28)
+91 4 1.42876114913 (55, 46)
+91 1 1.45328939184 (0, 0)
+91 2 1.49168611055 (29, 25)
+RANKED SIMILARITIES: 92 (converts to 46, then to 39) position: 3
+WRONG
+92 1 0.710453005837 (0, 0)
+92 3 0.909227269773 (32, 28)
+92 2 1.0092419721 (29, 25)
+92 4 1.15187104046 (55, 46)
+RANKED SIMILARITIES: 93 (converts to 65, then to 54) position: 2
+WRONG
+93 1 0.942118186398 (0, 0)
+93 3 1.48281815931 (32, 28)
+93 2 1.55497027021 (29, 25)
+93 4 1.69402845858 (55, 46)
+RANKED SIMILARITIES: 94 (converts to 10, then to 8) position: 2
+WRONG
+94 4 1.02260737433 (55, 46)
+94 1 1.17304776875 (0, 0)
+94 2 1.23478671776 (29, 25)
+94 3 1.49546493383 (32, 28)
+RANKED SIMILARITIES: 95 (converts to 9, then to 7) position: 4
+CORRECT
+95 4 0.585910480851 (55, 46)
+95 2 0.680360250782 (29, 25)
+95 1 0.690156658339 (0, 0)
+95 3 0.918987465415 (32, 28)
+RANKED SIMILARITIES: 96 (converts to 25, then to 21) position: 0
+RANKED SIMILARITIES: 97 (converts to 22, then to 19) position: 2
+WRONG
+97 4 1.01537145138 (55, 46)
+97 1 1.15167530821 (0, 0)
+97 2 1.21631463931 (29, 25)
+97 3 1.47374419714 (32, 28)
+27 CORRECT, 46 WRONG

@@ -1,0 +1,363 @@
+RESULTS FOR PERSON 93
+converts to survey 65 and network 54
+position is mlgrad
+RESULTS FOR 93 and 71: 1198.38861111 HOURS
+position is 1styeargrad
+1556: 1164.115
+1558: 27.6594444444
+8817: 3.98055555556
+42: 1.49305555556
+38: 0.518333333333
+41: 0.372777777778
+1557: 0.208055555556
+5993: 0.0413888888889
+
+RESULTS FOR 93 and 58: 562.601388889 HOURS
+position is mlfrosh
+1556: 547.896944444
+38: 9.33944444444
+1558: 4.89916666667
+5991: 0.243888888889
+6006: 0.139444444444
+42: 0.0594444444444
+41: 0.0111111111111
+1552: 0.00638888888889
+1557: 0.00555555555556
+
+RESULTS FOR 93 and 27: 289.207222222 HOURS
+position is 
+1556: 234.063611111
+41: 26.9844444444
+38: 23.0625
+5991: 3.56777777778
+1558: 0.778333333333
+1557: 0.478888888889
+42: 0.265277777778
+1552: 0.00638888888889
+
+RESULTS FOR 93 and 49: 274.636666667 HOURS
+position is mlgrad
+1558: 260.031111111
+42: 9.01
+41: 2.68777777778
+38: 1.22583333333
+5991: 1.18583333333
+1556: 0.490555555556
+1552: 0.00555555555556
+
+RESULTS FOR 93 and 76: 69.8216666667 HOURS
+position is 1styeargrad
+42: 43.7280555556
+38: 26.0766666667
+41: 0.0169444444444
+
+RESULTS FOR 93 and 63: 15.9411111111 HOURS
+position is mlgrad
+38: 15.9411111111
+
+RESULTS FOR 93 and 70: 14.7841666667 HOURS
+position is mlfrosh
+1558: 5.04694444444
+1556: 4.04722222222
+41: 3.73861111111
+38: 0.6725
+5991: 0.619166666667
+42: 0.531666666667
+6006: 0.108611111111
+1557: 0.0194444444444
+
+RESULTS FOR 93 and 44: 14.2558333333 HOURS
+position is 3rdyeargrad
+38: 14.2558333333
+
+RESULTS FOR 93 and 43: 9.00527777778 HOURS
+position is mlgrad
+38: 9.00527777778
+
+RESULTS FOR 93 and 94: 8.10527777778 HOURS
+position is mlgrad
+38: 8.10527777778
+
+RESULTS FOR 93 and 96: 4.25472222222 HOURS
+position is mlgrad
+38: 4.25472222222
+
+RESULTS FOR 93 and 8: 3.495 HOURS
+position is 
+38: 3.495
+
+RESULTS FOR 93 and 5: 3.32583333333 HOURS
+position is 
+38: 3.32583333333
+
+RESULTS FOR 93 and 88: 2.53305555556 HOURS
+position is mlstaff
+38: 2.53305555556
+
+RESULTS FOR 93 and 57: 2.32333333333 HOURS
+position is mlgrad
+38: 2.32333333333
+
+RESULTS FOR 93 and 62: 2.14166666667 HOURS
+position is mlgrad
+38: 2.14166666667
+
+RESULTS FOR 93 and 91: 1.97583333333 HOURS
+position is mlgrad
+38: 1.97583333333
+
+RESULTS FOR 93 and 97: 1.8025 HOURS
+position is 1styeargrad
+38: 1.8025
+
+RESULTS FOR 93 and 15: 1.64944444444 HOURS
+position is 1styeargrad
+38: 1.64944444444
+
+RESULTS FOR 93 and 10: 1.2425 HOURS
+position is mlgrad
+38: 1.2425
+
+RESULTS FOR 93 and 74: 0.995833333333 HOURS
+position is mlgrad
+38: 0.995833333333
+
+RESULTS FOR 93 and 85: 0.898055555556 HOURS
+position is mlgrad
+38: 0.898055555556
+
+RESULTS FOR 93 and 86: 0.831666666667 HOURS
+position is mlgrad
+38: 0.831666666667
+
+RESULTS FOR 93 and 95: 0.391388888889 HOURS
+position is professor
+38: 0.391388888889
+
+RESULTS FOR 93 and 68: 0.226944444444 HOURS
+position is mlfrosh
+38: 0.226944444444
+
+RESULTS FOR 93 and 7: 0.2125 HOURS
+position is 1styeargrad
+38: 0.2125
+
+RESULTS FOR 93 and 29: 0.200555555556 HOURS
+position is mlgrad
+38: 0.200555555556
+
+RESULTS FOR 93 and 21: 0.197222222222 HOURS
+position is mlgrad
+38: 0.197222222222
+
+RESULTS FOR 93 and 14: 0.149166666667 HOURS
+position is 1styeargrad
+38: 0.149166666667
+
+RESULTS FOR 93 and 51: 0.140277777778 HOURS
+position is 1styeargrad
+38: 0.140277777778
+
+RESULTS FOR 93 and 78: 0.122222222222 HOURS
+position is mlgrad
+38: 0.122222222222
+
+RESULTS FOR 93 and 1: 0.111111111111 HOURS
+position is 
+38: 0.111111111111
+
+RESULTS FOR 93 and 89: 0.0477777777778 HOURS
+position is 1styeargrad
+38: 0.0477777777778
+
+RESULTS FOR 93 and 16: 0.0186111111111 HOURS
+position is mlurop
+38: 0.0186111111111
+
+RESULTS FOR 93 and 3: 0.0163888888889 HOURS
+position is mlfrosh
+42: 0.0163888888889
+
+RESULTS FOR 93 and 38: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 87: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 2: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 60: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 41: 0 HOURS
+position is prof
+
+RESULTS FOR 93 and 24: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 93 and 90: 0 HOURS
+position is grad
+
+RESULTS FOR 93 and 50: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 80: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 53: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 34: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 47: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 17: 0 HOURS
+position is 5 year media lab
+
+RESULTS FOR 93 and 83: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 30: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 64: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 11: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 93 and 77: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 56: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 37: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 20: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 67: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 59: 0 HOURS
+position is grad
+
+RESULTS FOR 93 and 40: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 23: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 4: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 26: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 93 and 92: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 73: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 52: 0 HOURS
+position is 
+
+RESULTS FOR 93 and 33: 0 HOURS
+position is mlstaff
+
+RESULTS FOR 93 and 46: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 82: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 55: 0 HOURS
+position is urop_hd
+
+RESULTS FOR 93 and 36: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 19: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 66: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 13: 0 HOURS
+position is mlstaff
+
+RESULTS FOR 93 and 79: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 39: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 22: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 69: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 93 and 48: 0 HOURS
+position is Germany
+
+RESULTS FOR 93 and 61: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 93 and 42: 0 HOURS
+position is 
+
+RESULTS FOR 93 and 25: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 6: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 93 and 72: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 32: 0 HOURS
+position is graduated
+
+RESULTS FOR 93 and 45: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 81: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 93 and 28: 0 HOURS
+position is 6years
+
+RESULTS FOR 93 and 9: 0 HOURS
+position is mlUrop
+
+RESULTS FOR 93 and 75: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 93 and 54: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 35: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 18: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 84: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 31: 0 HOURS
+position is sloan
+
+RESULTS FOR 93 and 65: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 93 and 12: 0 HOURS
+position is sloan
+

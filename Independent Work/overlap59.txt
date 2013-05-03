@@ -1,0 +1,322 @@
+RESULTS FOR PERSON 59
+converts to survey 7 and network 5
+position is grad
+RESULTS FOR 59 and 80: 54.8047222222 HOURS
+position is mlgrad
+42: 50.9380555556
+41: 3.79361111111
+40: 0.0730555555556
+
+RESULTS FOR 59 and 62: 23.605 HOURS
+position is mlgrad
+38: 23.605
+
+RESULTS FOR 59 and 71: 20.3191666667 HOURS
+position is 1styeargrad
+38: 10.9244444444
+42: 7.20805555556
+1556: 1.50305555556
+40: 0.288611111111
+1552: 0.246111111111
+41: 0.107222222222
+1558: 0.0227777777778
+6006: 0.0188888888889
+
+RESULTS FOR 59 and 6: 16.0216666667 HOURS
+position is 1styeargrad
+38: 16.0216666667
+
+RESULTS FOR 59 and 7: 14.96 HOURS
+position is 1styeargrad
+38: 14.96
+
+RESULTS FOR 59 and 15: 11.7933333333 HOURS
+position is 1styeargrad
+38: 11.7933333333
+
+RESULTS FOR 59 and 8: 8.50333333333 HOURS
+position is 
+38: 8.50333333333
+
+RESULTS FOR 59 and 81: 8.18055555556 HOURS
+position is 1styeargrad
+38: 8.18055555556
+
+RESULTS FOR 59 and 97: 5.43138888889 HOURS
+position is 1styeargrad
+38: 5.43138888889
+
+RESULTS FOR 59 and 78: 2.25611111111 HOURS
+position is mlgrad
+38: 2.25611111111
+
+RESULTS FOR 59 and 29: 2.09527777778 HOURS
+position is mlgrad
+38: 2.09527777778
+
+RESULTS FOR 59 and 88: 0.5625 HOURS
+position is mlstaff
+38: 0.5625
+
+RESULTS FOR 59 and 85: 0.4825 HOURS
+position is mlgrad
+38: 0.4825
+
+RESULTS FOR 59 and 89: 0.386944444444 HOURS
+position is 1styeargrad
+42: 0.386944444444
+
+RESULTS FOR 59 and 95: 0.2525 HOURS
+position is professor
+38: 0.2525
+
+RESULTS FOR 59 and 5: 0.0958333333333 HOURS
+position is 
+38: 0.0958333333333
+
+RESULTS FOR 59 and 96: 0.0827777777778 HOURS
+position is mlgrad
+38: 0.0827777777778
+
+RESULTS FOR 59 and 39: 0.0211111111111 HOURS
+position is mlgrad
+38: 0.0211111111111
+
+RESULTS FOR 59 and 16: 0.00138888888889 HOURS
+position is mlurop
+38: 0.00138888888889
+
+RESULTS FOR 59 and 18: 0.000555555555556 HOURS
+position is mlgrad
+38: 0.000555555555556
+
+RESULTS FOR 59 and 14: 0.000277777777778 HOURS
+position is 1styeargrad
+38: 0.000277777777778
+
+RESULTS FOR 59 and 57: 0.000277777777778 HOURS
+position is mlgrad
+38: 0.000277777777778
+
+RESULTS FOR 59 and 51: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 59 and 36: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 41: 0 HOURS
+position is prof
+
+RESULTS FOR 59 and 87: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 26: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 59 and 77: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 35: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 20: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 82: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 25: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 10: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 72: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 61: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 59 and 46: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 19: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 4: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 66: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 9: 0 HOURS
+position is mlUrop
+
+RESULTS FOR 59 and 55: 0 HOURS
+position is urop_hd
+
+RESULTS FOR 59 and 56: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 45: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 30: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 92: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 3: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 59 and 65: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 50: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 40: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 86: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 91: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 76: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 59 and 49: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 34: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 23: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 24: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 59 and 70: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 59 and 13: 0 HOURS
+position is mlstaff
+
+RESULTS FOR 59 and 75: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 59 and 60: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 33: 0 HOURS
+position is mlstaff
+
+RESULTS FOR 59 and 69: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 59 and 54: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 44: 0 HOURS
+position is 3rdyeargrad
+
+RESULTS FOR 59 and 17: 0 HOURS
+position is 5 year media lab
+
+RESULTS FOR 59 and 2: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 64: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 53: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 38: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 43: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 28: 0 HOURS
+position is 6years
+
+RESULTS FOR 59 and 90: 0 HOURS
+position is grad
+
+RESULTS FOR 59 and 1: 0 HOURS
+position is 
+
+RESULTS FOR 59 and 79: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 48: 0 HOURS
+position is Germany
+
+RESULTS FOR 59 and 37: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 22: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 84: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 27: 0 HOURS
+position is 
+
+RESULTS FOR 59 and 12: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 74: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 63: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 32: 0 HOURS
+position is graduated
+
+RESULTS FOR 59 and 21: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 83: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 68: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 59 and 11: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 59 and 73: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 58: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 59 and 47: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 94: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 59 and 67: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 52: 0 HOURS
+position is 
+
+RESULTS FOR 59 and 42: 0 HOURS
+position is 
+
+RESULTS FOR 59 and 31: 0 HOURS
+position is sloan
+
+RESULTS FOR 59 and 93: 0 HOURS
+position is mlgrad
+

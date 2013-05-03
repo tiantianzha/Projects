@@ -1,0 +1,383 @@
+RESULTS FOR PERSON 5
+converts to survey 24 and network 0
+position is 
+
+RESULTS FOR 5 and 29: 7425.14194444 HOURS
+position is mlgrad
+3428: 7273.90583333
+3393: 116.326388889
+3427: 21.6583333333
+3392: 5.87722222222
+38: 3.82333333333
+3925: 3.39305555556
+3450: 0.0666666666667
+3394: 0.0438888888889
+3437: 0.0333333333333
+3461: 0.00805555555556
+3928: 0.00583333333333
+
+RESULTS FOR 5 and 78: 2647.5425 HOURS
+position is mlgrad
+3428: 2583.61583333
+3393: 45.3663888889
+3392: 11.4819444444
+38: 6.74694444444
+3925: 0.232777777778
+3394: 0.0425
+3450: 0.0244444444444
+3437: 0.0166666666667
+3427: 0.015
+
+RESULTS FOR 5 and 15: 306.363611111 HOURS
+position is 1styeargrad
+3451: 224.808333333
+3392: 38.0375
+38: 36.0005555556
+3393: 6.49944444444
+3923: 0.777222222222
+3924: 0.0647222222222
+4536: 0.0613888888889
+3428: 0.0552777777778
+3925: 0.0372222222222
+3447: 0.0122222222222
+4011: 0.00444444444444
+3429: 0.00361111111111
+3394: 0.00138888888889
+4742: 0.000277777777778
+
+RESULTS FOR 5 and 85: 194.862777778 HOURS
+position is mlgrad
+3393: 189.351388889
+3392: 3.8675
+38: 0.586944444444
+3934: 0.493888888889
+3924: 0.199722222222
+3923: 0.1675
+3428: 0.0775
+3928: 0.0675
+4536: 0.0175
+3427: 0.0138888888889
+4742: 0.00555555555556
+3450: 0.00527777777778
+4509: 0.00472222222222
+3429: 0.0025
+3394: 0.00111111111111
+4537: 0.000277777777778
+
+RESULTS FOR 5 and 91: 154.153888889 HOURS
+position is mlgrad
+38: 142.542222222
+3393: 10.3661111111
+3392: 0.666388888889
+3925: 0.579166666667
+
+RESULTS FOR 5 and 80: 152.932222222 HOURS
+position is mlgrad
+38: 152.932222222
+
+RESULTS FOR 5 and 27: 81.1680555556 HOURS
+position is 
+38: 81.1680555556
+
+RESULTS FOR 5 and 94: 70.0844444444 HOURS
+position is mlgrad
+38: 70.0844444444
+
+RESULTS FOR 5 and 63: 67.6086111111 HOURS
+position is mlgrad
+38: 67.6086111111
+
+RESULTS FOR 5 and 44: 52.8033333333 HOURS
+position is 3rdyeargrad
+38: 52.8033333333
+
+RESULTS FOR 5 and 97: 40.8272222222 HOURS
+position is 1styeargrad
+38: 40.8272222222
+
+RESULTS FOR 5 and 58: 38.8880555556 HOURS
+position is mlfrosh
+38: 38.8880555556
+
+RESULTS FOR 5 and 76: 28.4963888889 HOURS
+position is 1styeargrad
+38: 28.4963888889
+
+RESULTS FOR 5 and 88: 28.1661111111 HOURS
+position is mlstaff
+38: 28.1661111111
+
+RESULTS FOR 5 and 89: 23.1572222222 HOURS
+position is 1styeargrad
+38: 23.1572222222
+
+RESULTS FOR 5 and 62: 22.0852777778 HOURS
+position is mlgrad
+38: 22.0852777778
+
+RESULTS FOR 5 and 57: 21.1822222222 HOURS
+position is mlgrad
+38: 21.1822222222
+
+RESULTS FOR 5 and 86: 19.2544444444 HOURS
+position is mlgrad
+38: 19.2544444444
+
+RESULTS FOR 5 and 71: 19.0077777778 HOURS
+position is 1styeargrad
+38: 19.0077777778
+
+RESULTS FOR 5 and 43: 17.9063888889 HOURS
+position is mlgrad
+38: 17.9063888889
+
+RESULTS FOR 5 and 1: 16.7669444444 HOURS
+position is 
+38: 16.7669444444
+
+RESULTS FOR 5 and 96: 13.8661111111 HOURS
+position is mlgrad
+38: 13.8661111111
+
+RESULTS FOR 5 and 81: 10.2311111111 HOURS
+position is 1styeargrad
+38: 10.2311111111
+
+RESULTS FOR 5 and 7: 9.09972222222 HOURS
+position is 1styeargrad
+38: 9.09972222222
+
+RESULTS FOR 5 and 95: 7.85111111111 HOURS
+position is professor
+38: 7.85111111111
+
+RESULTS FOR 5 and 16: 7.65527777778 HOURS
+position is mlurop
+38: 7.65527777778
+
+RESULTS FOR 5 and 68: 7.48416666667 HOURS
+position is mlfrosh
+38: 7.48416666667
+
+RESULTS FOR 5 and 70: 5.00194444444 HOURS
+position is mlfrosh
+38: 5.00194444444
+
+RESULTS FOR 5 and 14: 4.61388888889 HOURS
+position is 1styeargrad
+38: 4.61388888889
+
+RESULTS FOR 5 and 33: 3.85 HOURS
+position is mlstaff
+38: 3.85
+
+RESULTS FOR 5 and 21: 3.25055555556 HOURS
+position is mlgrad
+38: 3.25055555556
+
+RESULTS FOR 5 and 74: 3.15111111111 HOURS
+position is mlgrad
+38: 3.15111111111
+
+RESULTS FOR 5 and 3: 2.82888888889 HOURS
+position is mlfrosh
+38: 2.82888888889
+
+RESULTS FOR 5 and 8: 2.38833333333 HOURS
+position is 
+38: 2.38833333333
+
+RESULTS FOR 5 and 39: 1.96138888889 HOURS
+position is mlgrad
+38: 1.96138888889
+
+RESULTS FOR 5 and 10: 1.62444444444 HOURS
+position is mlgrad
+38: 1.62444444444
+
+RESULTS FOR 5 and 49: 1.07361111111 HOURS
+position is mlgrad
+38: 1.07361111111
+
+RESULTS FOR 5 and 51: 0.9125 HOURS
+position is 1styeargrad
+38: 0.9125
+
+RESULTS FOR 5 and 93: 0.513333333333 HOURS
+position is mlgrad
+38: 0.513333333333
+
+RESULTS FOR 5 and 83: 0.173611111111 HOURS
+position is mlgrad
+38: 0.173611111111
+
+RESULTS FOR 5 and 59: 0.0958333333333 HOURS
+position is grad
+38: 0.0958333333333
+
+RESULTS FOR 5 and 35: 0.075 HOURS
+position is sloan
+38: 0.075
+
+RESULTS FOR 5 and 31: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 54: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 5 and 18: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 5 and 84: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 47: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 5 and 60: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 5 and 11: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 5 and 77: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 24: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 5 and 90: 0 HOURS
+position is grad
+
+RESULTS FOR 5 and 87: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 5 and 34: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 5 and 64: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 40: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 37: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 5 and 50: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 67: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 30: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 5 and 56: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 53: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 5 and 73: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 4: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 17: 0 HOURS
+position is 5 year media lab
+
+RESULTS FOR 5 and 46: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 20: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 13: 0 HOURS
+position is mlstaff
+
+RESULTS FOR 5 and 79: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 26: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 5 and 92: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 23: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 36: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 66: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 42: 0 HOURS
+position is 
+
+RESULTS FOR 5 and 52: 0 HOURS
+position is 
+
+RESULTS FOR 5 and 72: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 69: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 5 and 82: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 5 and 45: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 55: 0 HOURS
+position is urop_hd
+
+RESULTS FOR 5 and 9: 0 HOURS
+position is mlUrop
+
+RESULTS FOR 5 and 75: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 5 and 6: 0 HOURS
+position is 1styeargrad
+
+RESULTS FOR 5 and 19: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 32: 0 HOURS
+position is graduated
+
+RESULTS FOR 5 and 61: 0 HOURS
+position is mlfrosh
+
+RESULTS FOR 5 and 12: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 25: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 22: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 48: 0 HOURS
+position is Germany
+
+RESULTS FOR 5 and 65: 0 HOURS
+position is mlgrad
+
+RESULTS FOR 5 and 28: 0 HOURS
+position is 6years
+
+RESULTS FOR 5 and 41: 0 HOURS
+position is prof
+
+RESULTS FOR 5 and 38: 0 HOURS
+position is sloan
+
+RESULTS FOR 5 and 2: 0 HOURS
+position is mlgrad
+

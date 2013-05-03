@@ -1,0 +1,9 @@
+The below was a study of mobile usage data released by the MIT
+Reality Mining Project, where they followed 100 users' location
+and call data for 10 months.
+
+This folder mostly contains data written to text files and
+Python scripts manipulating data (originally given in the form of a
+SQL dump file).
+
+Findings are described in TiantianZhaIW.pdf
