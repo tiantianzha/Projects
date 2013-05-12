@@ -1,0 +1,7 @@
+
+
+echo "*** UNUSUAL COMMANDS"
+echo one ">" junk
+echo one > ">"
+cat ">"
+rm ">"

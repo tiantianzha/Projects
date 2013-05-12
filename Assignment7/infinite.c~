@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void) {
+
+   for (;;) {
+      fprintf("");
+   }
+   return 0;
+}

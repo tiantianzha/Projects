@@ -1,0 +1,32 @@
+# Macros
+#CC = gcc217 -g
+CC = gcc217m
+#CC = gcc217
+all: ish
+
+clean: 
+	rm -f ish
+	rm -f ish.o dynarray.o command.o token.o builtin.o 
+
+#------------------------------------------------------------------------
+
+ish: ish.o dynarray.o command.o token.o builtin.o 
+	$(CC) ish.o dynarray.o command.o token.o builtin.o -o ish
+
+#------------------------------------------------------------------------
+
+ish.o: ish.c dynarray.h token.h command.h builtin.h ish.h 
+	$(CC) -c ish.c
+
+builtin.o: builtin.c dynarray.h token.h command.h builtin.h
+	$(CC) -c builtin.c
+
+command.o: command.c dynarray.h token.h command.h
+	$(CC) -c command.c
+
+token.o: token.c dynarray.h token.h
+	$(CC) -c token.c
+
+dynarray.o: dynarray.c dynarray.h
+	$(CC) -c dynarray.c
+

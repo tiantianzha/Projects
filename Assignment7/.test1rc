@@ -1,0 +1,12 @@
+echo "*** EXECUTABLE BINARY COMMANDS"
+/bin/date
+date
+pwd
+ls
+ls -al
+echo
+echo one two three
+echo one "two   three" four
+printenv
+printenv PATH
+printenv HOME

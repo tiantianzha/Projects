@@ -1,0 +1,8 @@
+echo "*** SHELL BUILTIN COMMANDS (cd, setenv, unsetenv)"
+
+printenv
+printenv XXX
+unsetenv XXX
+printenv
+printenv XXX
+

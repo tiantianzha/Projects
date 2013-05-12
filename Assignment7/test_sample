@@ -1,0 +1,600 @@
+% echo "*** EXECUTABLE BINARY COMMANDS"
+*** EXECUTABLE BINARY COMMANDS
+% /bin/date
+Fri May  6 22:53:02 EDT 2011
+% date
+Fri May  6 22:53:02 EDT 2011
+% pwd
+/n/homeserver2/user2a/tzha/COS217/Assignment7
+% ls
+#.ishrc#
+#dynarray.c#
+#file#
+2
+a.out
+builtin.c
+builtin.c~
+builtin.h
+builtin.h~
+builtin.o
+command
+command.c
+command.c~
+command.h
+command.h~
+command.o
+dynarray.c
+dynarray.h
+dynarray.o
+error_ish
+error_sample
+file name
+file.txt
+hello
+hello.c
+hello.c~
+infinite
+infinite.c
+infinite.c~
+iosample
+iotest
+iotest.c
+ish
+ish.c
+ish.c~
+ish.h
+ish.o
+ish2.c
+ish2.c~
+loop
+loop.c
+loop.c~
+makefile
+makefile~
+meminfo11195.out
+meminfo11463.out
+meminfo11802.out
+meminfo12839.out
+meminfo12997.out
+name
+output
+readme
+sampleish
+sighandling.c
+sighandling.c~
+sighandling.h
+sighandling.o
+subfolder
+test
+test.c
+test.h
+test2
+test_ish
+test_sample
+token
+token.c
+token.c~
+token.h
+token.h~
+token.o
+% ls -al
+total 1240
+-rw------- 1 tzha utempter    703 May  6 22:13 #.ishrc#
+-rw------- 1 tzha utempter  11956 May  2 14:11 #dynarray.c#
+-rw------- 1 tzha utempter      5 May  2 16:50 #file#
+drwx------ 3 tzha utempter   8192 May  6 22:53 .
+drwx------ 9 tzha utempter   4096 Apr 30 20:39 ..
+-rw------- 1 tzha utempter    703 Apr 30 20:40 .ishrc
+-rwx------ 1 tzha utempter  39867 May  6 00:07 .nfs00000000046f770500000154
+-rwx------ 1 tzha utempter  43844 May  6 22:24 .nfs000000000570a161000001c7
+-rw------- 1 tzha utempter    156 May  5 20:16 .test1rc
+-rw------- 1 tzha utempter    703 May  5 20:16 .test1rc~
+-rw------- 1 tzha utempter      3 May  5 20:31 .test2rc
+-rw------- 1 tzha utempter    116 May  5 20:26 .test2rc~
+-rw------- 1 tzha utempter    174 May  5 20:41 .test3rc
+-rw------- 1 tzha utempter    703 May  5 20:40 .test3rc~
+-rw------- 1 tzha utempter      9 May  5 20:46 .test4rc
+-rw------- 1 tzha utempter     16 May  5 20:46 .test4rc~
+-rw------- 1 tzha utempter     78 May  5 20:43 .test5rc
+-rw------- 1 tzha utempter    703 May  5 20:43 .test5rc~
+-rw------- 1 tzha utempter      2 May  6 22:52 2
+-rwx------ 1 tzha utempter  23450 May  6 14:55 a.out
+-rw------- 1 tzha utempter   4647 May  6 16:30 builtin.c
+-rw------- 1 tzha utempter   4350 May  5 00:49 builtin.c~
+-rw------- 1 tzha utempter    123 May  4 11:39 builtin.h
+-rw------- 1 tzha utempter     27 May  4 11:13 builtin.h~
+-rw------- 1 tzha utempter   7268 May  6 16:31 builtin.o
+-rwx------ 1 tzha utempter  27935 May  3 22:57 command
+-rw------- 1 tzha utempter   8344 May  6 22:46 command.c
+-rw------- 1 tzha utempter   8318 May  6 17:29 command.c~
+-rw------- 1 tzha utempter    348 May  5 00:46 command.h
+-rw------- 1 tzha utempter    323 May  5 00:44 command.h~
+-rw------- 1 tzha utempter  10672 May  6 22:46 command.o
+-rw------- 1 tzha utempter  11956 Apr 30 20:40 dynarray.c
+-rw------- 1 tzha utempter   3414 Apr 30 20:40 dynarray.h
+-rw------- 1 tzha utempter  14060 May  6 15:28 dynarray.o
+-rw------- 1 tzha utempter    310 May  6 22:52 error_ish
+-rw------- 1 tzha utempter      0 May  6 22:53 error_sample
+-rw------- 1 tzha utempter     40 May  1 14:15 file name
+-rw------- 1 tzha utempter      0 May  3 12:34 file.txt
+-rwx------ 1 tzha utempter   4937 May  6 00:15 hello
+-rw------- 1 tzha utempter     98 May  6 00:15 hello.c
+-rw------- 1 tzha utempter    577 May  5 23:59 hello.c~
+-rwx------ 1 tzha utempter   4832 May  6 14:08 infinite
+-rw------- 1 tzha utempter     90 May  6 14:08 infinite.c
+-rw------- 1 tzha utempter     91 May  6 14:08 infinite.c~
+-rw------- 1 tzha utempter     15 May  4 16:04 iosample
+-rwx------ 1 tzha utempter   5091 May  4 16:04 iotest
+-rw------- 1 tzha utempter    172 May  4 16:04 iotest.c
+-rwx------ 1 tzha utempter  43798 May  6 22:50 ish
+-rw------- 1 tzha utempter   7893 May  6 22:50 ish.c
+-rw------- 1 tzha utempter   7933 May  6 22:36 ish.c~
+-rw------- 1 tzha utempter      5 May  4 17:00 ish.h
+-rw------- 1 tzha utempter  10656 May  6 22:50 ish.o
+-rw------- 1 tzha utempter   6347 May  6 22:34 ish2.c
+-rw------- 1 tzha utempter   7113 May  6 14:18 ish2.c~
+-rwx------ 1 tzha utempter  21072 May  6 14:25 loop
+-rw------- 1 tzha utempter   5032 May  6 14:13 loop.c
+-rw------- 1 tzha utempter   5018 May  6 14:06 loop.c~
+-rw------- 1 tzha utempter    853 May  6 15:05 makefile
+-rw------- 1 tzha utempter    853 May  6 14:59 makefile~
+-rw------- 1 tzha utempter  21316 May  6 14:56 meminfo11195.out
+-rw------- 1 tzha utempter  21316 May  6 14:57 meminfo11463.out
+-rw------- 1 tzha utempter  21316 May  6 14:59 meminfo11802.out
+-rw------- 1 tzha utempter  21316 May  6 15:04 meminfo12839.out
+-rw------- 1 tzha utempter  21590 May  6 15:05 meminfo12997.out
+-rw------- 1 tzha utempter   2770 May  2 16:49 name
+-rw------- 1 tzha utempter 404311 May  5 00:05 output
+-rw------- 1 tzha utempter    600 May  5 23:16 readme
+-rwx------ 1 tzha utempter  25544 Apr 30 20:40 sampleish
+-rw------- 1 tzha utempter   1680 May  6 16:36 sighandling.c
+-rw------- 1 tzha utempter   1677 May  6 15:51 sighandling.c~
+-rw------- 1 tzha utempter    113 May  6 14:54 sighandling.h
+-rw------- 1 tzha utempter   4072 May  6 16:45 sighandling.o
+drwx------ 2 tzha utempter   4096 May  4 09:34 subfolder
+-rw------- 1 tzha utempter  37437 May  5 15:37 test
+-rw------- 1 tzha utempter    104 May  4 21:19 test.c
+-rw------- 1 tzha utempter   3414 May  4 09:24 test.h
+-rw------- 1 tzha utempter  38720 May  5 15:39 test2
+-rw------- 1 tzha utempter  14065 May  6 22:52 test_ish
+-rw------- 1 tzha utempter    876 May  6  2011 test_sample
+-rwx------ 1 tzha utempter  12895 May  3 13:31 token
+-rw------- 1 tzha utempter   7401 May  5 20:54 token.c
+-rw------- 1 tzha utempter   7368 May  5 20:02 token.c~
+-rw------- 1 tzha utempter    438 May  3 11:53 token.h
+-rw------- 1 tzha utempter    363 May  3 10:32 token.h~
+-rw------- 1 tzha utempter   8660 May  6 15:28 token.o
+% echo
+
+% echo one two three
+one two three
+% echo one "two   three" four
+one two   three four
+% printenv
+MANPATH=/usr/share/man:/usr/local/man:/usr/kerberos/man
+HOSTNAME=fez.Princeton.EDU
+ARCHPATH=/usr/local/bin:/usr/bin/X11
+TERM=xterm-color
+SHELL=/bin/bash
+HISTSIZE=1000
+KDE_NO_IPV6=1
+SSH_CLIENT=140.180.24.56 53005 22
+QTDIR=/usr/lib64/qt-3.3
+OLDPWD=/u/tzha
+QTINC=/usr/lib64/qt-3.3/include
+SSH_TTY=/dev/pts/17
+LC_ALL=C
+USER=tzha
+LD_LIBRARY_PATH=/usr/local/lib
+LS_COLORS=no=00:fi=00:di=00;34:ln=00;36:pi=40;33:so=00;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:ex=00;32:*.cmd=00;32:*.exe=00;32:*.com=00;32:*.btm=00;32:*.bat=00;32:*.sh=00;32:*.csh=00;32:*.tar=00;31:*.tgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.gz=00;31:*.bz2=00;31:*.bz=00;31:*.tz=00;31:*.rpm=00;31:*.cpio=00;31:*.jpg=00;35:*.gif=00;35:*.bmp=00;35:*.xbm=00;35:*.xpm=00;35:*.png=00;35:*.tif=00;35:
+KDEDIR=/usr
+MAIL=/var/spool/mail/tzha
+PATH=/u/cos217/bin:/u/cos217/bin/i686:/u/cos217/bin/i686/memstat:/u/cos217/bin/i686/meminfo:/u/tzha/bin:/usr/local/bin:/usr/bin/X11:/usr/licensed/bin:/usr/bin:/bin:.
+INPUTRC=/etc/inputrc
+PWD=/u/tzha/COS217/Assignment7
+LANG=en_US.UTF-8
+KDE_IS_PRELINKED=1
+AMEWINDOWS=20 80 90
+ARCHLD=/usr/local/lib
+PS1=\[\e[32m\]\h:\w\[\e[0m\]$ 
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SHLVL=1
+HOME=/u/tzha
+LOGNAME=tzha
+PRINTER=all_clusters_d
+QTLIB=/usr/lib64/qt-3.3/lib
+CVS_RSH=ssh
+SSH_CONNECTION=140.180.24.56 53005 128.112.129.190 22
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+G_BROKEN_FILENAMES=1
+_=./sampleish
+% printenv PATH
+/u/cos217/bin:/u/cos217/bin/i686:/u/cos217/bin/i686/memstat:/u/cos217/bin/i686/meminfo:/u/tzha/bin:/usr/local/bin:/usr/bin/X11:/usr/licensed/bin:/usr/bin:/bin:.
+% printenv HOME
+/u/tzha
+% 
+% echo "*** SHELL BUILTIN COMMANDS (cd, setenv, unsetenv)"
+*** SHELL BUILTIN COMMANDS (cd, setenv, unsetenv)
+% cd /usr
+% pwd
+/usr
+% cd bin
+% pwd
+/usr/bin
+% cd
+% pwd
+/n/homeserver2/user2a/tzha
+% setenv XXX 123
+% printenv
+MANPATH=/usr/share/man:/usr/local/man:/usr/kerberos/man
+HOSTNAME=fez.Princeton.EDU
+ARCHPATH=/usr/local/bin:/usr/bin/X11
+TERM=xterm-color
+SHELL=/bin/bash
+HISTSIZE=1000
+KDE_NO_IPV6=1
+SSH_CLIENT=140.180.24.56 53005 22
+QTDIR=/usr/lib64/qt-3.3
+OLDPWD=/u/tzha
+QTINC=/usr/lib64/qt-3.3/include
+SSH_TTY=/dev/pts/17
+LC_ALL=C
+USER=tzha
+LD_LIBRARY_PATH=/usr/local/lib
+LS_COLORS=no=00:fi=00:di=00;34:ln=00;36:pi=40;33:so=00;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:ex=00;32:*.cmd=00;32:*.exe=00;32:*.com=00;32:*.btm=00;32:*.bat=00;32:*.sh=00;32:*.csh=00;32:*.tar=00;31:*.tgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.gz=00;31:*.bz2=00;31:*.bz=00;31:*.tz=00;31:*.rpm=00;31:*.cpio=00;31:*.jpg=00;35:*.gif=00;35:*.bmp=00;35:*.xbm=00;35:*.xpm=00;35:*.png=00;35:*.tif=00;35:
+KDEDIR=/usr
+MAIL=/var/spool/mail/tzha
+PATH=/u/cos217/bin:/u/cos217/bin/i686:/u/cos217/bin/i686/memstat:/u/cos217/bin/i686/meminfo:/u/tzha/bin:/usr/local/bin:/usr/bin/X11:/usr/licensed/bin:/usr/bin:/bin:.
+INPUTRC=/etc/inputrc
+PWD=/u/tzha/COS217/Assignment7
+LANG=en_US.UTF-8
+KDE_IS_PRELINKED=1
+AMEWINDOWS=20 80 90
+ARCHLD=/usr/local/lib
+PS1=\[\e[32m\]\h:\w\[\e[0m\]$ 
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SHLVL=1
+HOME=/u/tzha
+LOGNAME=tzha
+PRINTER=all_clusters_d
+QTLIB=/usr/lib64/qt-3.3/lib
+CVS_RSH=ssh
+SSH_CONNECTION=140.180.24.56 53005 128.112.129.190 22
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+G_BROKEN_FILENAMES=1
+_=./sampleish
+XXX=123
+% printenv XXX
+123
+% unsetenv XXX
+% printenv
+MANPATH=/usr/share/man:/usr/local/man:/usr/kerberos/man
+HOSTNAME=fez.Princeton.EDU
+ARCHPATH=/usr/local/bin:/usr/bin/X11
+TERM=xterm-color
+SHELL=/bin/bash
+HISTSIZE=1000
+KDE_NO_IPV6=1
+SSH_CLIENT=140.180.24.56 53005 22
+QTDIR=/usr/lib64/qt-3.3
+OLDPWD=/u/tzha
+QTINC=/usr/lib64/qt-3.3/include
+SSH_TTY=/dev/pts/17
+LC_ALL=C
+USER=tzha
+LD_LIBRARY_PATH=/usr/local/lib
+LS_COLORS=no=00:fi=00:di=00;34:ln=00;36:pi=40;33:so=00;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:ex=00;32:*.cmd=00;32:*.exe=00;32:*.com=00;32:*.btm=00;32:*.bat=00;32:*.sh=00;32:*.csh=00;32:*.tar=00;31:*.tgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.gz=00;31:*.bz2=00;31:*.bz=00;31:*.tz=00;31:*.rpm=00;31:*.cpio=00;31:*.jpg=00;35:*.gif=00;35:*.bmp=00;35:*.xbm=00;35:*.xpm=00;35:*.png=00;35:*.tif=00;35:
+KDEDIR=/usr
+MAIL=/var/spool/mail/tzha
+PATH=/u/cos217/bin:/u/cos217/bin/i686:/u/cos217/bin/i686/memstat:/u/cos217/bin/i686/meminfo:/u/tzha/bin:/usr/local/bin:/usr/bin/X11:/usr/licensed/bin:/usr/bin:/bin:.
+INPUTRC=/etc/inputrc
+PWD=/u/tzha/COS217/Assignment7
+LANG=en_US.UTF-8
+KDE_IS_PRELINKED=1
+AMEWINDOWS=20 80 90
+ARCHLD=/usr/local/lib
+PS1=\[\e[32m\]\h:\w\[\e[0m\]$ 
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SHLVL=1
+HOME=/u/tzha
+LOGNAME=tzha
+PRINTER=all_clusters_d
+QTLIB=/usr/lib64/qt-3.3/lib
+CVS_RSH=ssh
+SSH_CONNECTION=140.180.24.56 53005 128.112.129.190 22
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+G_BROKEN_FILENAMES=1
+_=./sampleish
+% printenv XXX
+% 
+% echo "*** REDIRECTION"
+*** REDIRECTION
+% ls > junk
+% cat junk
+B¨	1
+rÃ	1
+‚R1
+Â	1
+#decomment.c#
+#hello#
+#testintmath.c#
+$RECYCLE.BIN
+10 Fall
+COS217
+Class Day Program
+ClusterDesktop
+ClusterDownloads
+MACOSXFILES
+MATLAB
+Music
+Pictures
+SSN documents
+Student Orgs
+TOPRINT
+TUTORIAL
+TUTORIAL~
+Thumbs.db
+Tiantian Zha.doc
+Videos
+Visual Studio 2008
+circle.c
+circle.c~
+decomment
+decomment.c~
+desktop.ini
+hello.c
+junk
+long term earnings.jpg
+public_html
+sponsors.indd
+sponsors.pdf
+surviving mutual funds.jpg
+testintmath.c
+testintmath.c~
+workspace
+~$antian Zha.doc
+~$uis et Scudery.doc
+% cat < junk
+B¨	1
+rÃ	1
+‚R1
+Â	1
+#decomment.c#
+#hello#
+#testintmath.c#
+$RECYCLE.BIN
+10 Fall
+COS217
+Class Day Program
+ClusterDesktop
+ClusterDownloads
+MACOSXFILES
+MATLAB
+Music
+Pictures
+SSN documents
+Student Orgs
+TOPRINT
+TUTORIAL
+TUTORIAL~
+Thumbs.db
+Tiantian Zha.doc
+Videos
+Visual Studio 2008
+circle.c
+circle.c~
+decomment
+decomment.c~
+desktop.ini
+hello.c
+junk
+long term earnings.jpg
+public_html
+sponsors.indd
+sponsors.pdf
+surviving mutual funds.jpg
+testintmath.c
+testintmath.c~
+workspace
+~$antian Zha.doc
+~$uis et Scudery.doc
+% cat < junk > junk2
+% cat junk2
+B¨	1
+rÃ	1
+‚R1
+Â	1
+#decomment.c#
+#hello#
+#testintmath.c#
+$RECYCLE.BIN
+10 Fall
+COS217
+Class Day Program
+ClusterDesktop
+ClusterDownloads
+MACOSXFILES
+MATLAB
+Music
+Pictures
+SSN documents
+Student Orgs
+TOPRINT
+TUTORIAL
+TUTORIAL~
+Thumbs.db
+Tiantian Zha.doc
+Videos
+Visual Studio 2008
+circle.c
+circle.c~
+decomment
+decomment.c~
+desktop.ini
+hello.c
+junk
+long term earnings.jpg
+public_html
+sponsors.indd
+sponsors.pdf
+surviving mutual funds.jpg
+testintmath.c
+testintmath.c~
+workspace
+~$antian Zha.doc
+~$uis et Scudery.doc
+% cat > junk3 < junk2
+% cat junk3
+B¨	1
+rÃ	1
+‚R1
+Â	1
+#decomment.c#
+#hello#
+#testintmath.c#
+$RECYCLE.BIN
+10 Fall
+COS217
+Class Day Program
+ClusterDesktop
+ClusterDownloads
+MACOSXFILES
+MATLAB
+Music
+Pictures
+SSN documents
+Student Orgs
+TOPRINT
+TUTORIAL
+TUTORIAL~
+Thumbs.db
+Tiantian Zha.doc
+Videos
+Visual Studio 2008
+circle.c
+circle.c~
+decomment
+decomment.c~
+desktop.ini
+hello.c
+junk
+long term earnings.jpg
+public_html
+sponsors.indd
+sponsors.pdf
+surviving mutual funds.jpg
+testintmath.c
+testintmath.c~
+workspace
+~$antian Zha.doc
+~$uis et Scudery.doc
+% cat junk2 > junk4 junk3
+% cat junk4
+B¨	1
+rÃ	1
+‚R1
+Â	1
+#decomment.c#
+#hello#
+#testintmath.c#
+$RECYCLE.BIN
+10 Fall
+COS217
+Class Day Program
+ClusterDesktop
+ClusterDownloads
+MACOSXFILES
+MATLAB
+Music
+Pictures
+SSN documents
+Student Orgs
+TOPRINT
+TUTORIAL
+TUTORIAL~
+Thumbs.db
+Tiantian Zha.doc
+Videos
+Visual Studio 2008
+circle.c
+circle.c~
+decomment
+decomment.c~
+desktop.ini
+hello.c
+junk
+long term earnings.jpg
+public_html
+sponsors.indd
+sponsors.pdf
+surviving mutual funds.jpg
+testintmath.c
+testintmath.c~
+workspace
+~$antian Zha.doc
+~$uis et Scudery.doc
+B¨	1
+rÃ	1
+‚R1
+Â	1
+#decomment.c#
+#hello#
+#testintmath.c#
+$RECYCLE.BIN
+10 Fall
+COS217
+Class Day Program
+ClusterDesktop
+ClusterDownloads
+MACOSXFILES
+MATLAB
+Music
+Pictures
+SSN documents
+Student Orgs
+TOPRINT
+TUTORIAL
+TUTORIAL~
+Thumbs.db
+Tiantian Zha.doc
+Videos
+Visual Studio 2008
+circle.c
+circle.c~
+decomment
+decomment.c~
+desktop.ini
+hello.c
+junk
+long term earnings.jpg
+public_html
+sponsors.indd
+sponsors.pdf
+surviving mutual funds.jpg
+testintmath.c
+testintmath.c~
+workspace
+~$antian Zha.doc
+~$uis et Scudery.doc
+% rm junk junk2 junk3 junk4
+% 
+% echo "*** ERRONEOUS COMMANDS"
+*** ERRONEOUS COMMANDS
+% echo "one
+% cd dir1 dir2
+% setenv
+% unsetenv
+% echo one >
+% echo one > junk1 > junk2
+% cat < nosuchfile
+% nosuchcommand
+% 
+% echo "*** UNUSUAL COMMANDS"
+*** UNUSUAL COMMANDS
+% echo one ">" junk
+one > junk
+% echo one > ">"
+% cat ">"
+one
+% rm ">"
+% 

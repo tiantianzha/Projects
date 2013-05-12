@@ -1,0 +1,8 @@
+sampleish: unmatched quote
+sampleish: cd: too many arguments
+sampleish: setenv: missing variable
+sampleish: unsetenv: missing variable
+sampleish: standard output redirection without file name
+sampleish: multiple redirection of standard output
+sampleish: nosuchfile: No such file or directory
+sampleish: nosuchcommand: No such file or directory

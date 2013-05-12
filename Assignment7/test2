@@ -1,0 +1,2068 @@
+% echo "*** EXECUTABLE BINARY COMMANDS"
+*** EXECUTABLE BINARY COMMANDS
+% /bin/date
+Thu May  5 15:38:41 EDT 2011
+% date
+Thu May  5 15:38:41 EDT 2011
+% pwd
+/n/homeserver2/user2a/tzha/COS217/Assignment7
+% ls
+#dynarray.c#
+#file#
+a.out
+builtin.c
+builtin.c~
+builtin.h
+builtin.h~
+builtin.o
+command
+command.c
+command.c~
+command.h
+command.h~
+command.o
+dynarray.c
+dynarray.h
+dynarray.o
+file name
+file.txt
+hello
+hello.c
+iosample
+iotest
+iotest.c
+ish
+ish.c
+ish.c~
+ish.h
+ish.o
+makefile
+makefile~
+meminfo26962.out
+meminfo26963.out
+meminfo26964.out
+meminfo26965.out
+meminfo26966.out
+meminfo26967.out
+meminfo26968.out
+meminfo26969.out
+meminfo26970.out
+meminfo26971.out
+meminfo26972.out
+meminfo26973.out
+meminfo26974.out
+meminfo26975.out
+meminfo27483.out
+meminfo27484.out
+meminfo27485.out
+meminfo27486.out
+meminfo27487.out
+meminfo27488.out
+meminfo27489.out
+meminfo27490.out
+meminfo27491.out
+meminfo27492.out
+meminfo27493.out
+meminfo27494.out
+meminfo27495.out
+meminfo27496.out
+meminfo28009.out
+meminfo28010.out
+meminfo28011.out
+meminfo28012.out
+meminfo28013.out
+meminfo28014.out
+name
+output
+sampleish
+subfolder
+test
+test.c
+test.h
+test2
+token
+token.c
+token.c~
+token.h
+token.h~
+token.o
+% ls -al
+total 792
+-rw------- 1 tzha utempter  11956 May  2 14:11 #dynarray.c#
+-rw------- 1 tzha utempter      5 May  2 16:50 #file#
+drwx------ 3 tzha utempter   8192 May  5 15:38 .
+drwx------ 9 tzha utempter   4096 Apr 30 20:39 ..
+-rw------- 1 tzha utempter    703 Apr 30 20:40 .ishrc
+-rwx------ 1 tzha utempter   5091 May  4 16:04 a.out
+-rw------- 1 tzha utempter   4350 May  5 00:49 builtin.c
+-rw------- 1 tzha utempter   4292 May  5 00:47 builtin.c~
+-rw------- 1 tzha utempter    123 May  4 11:39 builtin.h
+-rw------- 1 tzha utempter     27 May  4 11:13 builtin.h~
+-rw------- 1 tzha utempter   3040 May  5 15:26 builtin.o
+-rwx------ 1 tzha utempter  27935 May  3 22:57 command
+-rw------- 1 tzha utempter   5655 May  5 15:36 command.c
+-rw------- 1 tzha utempter   5619 May  5 11:48 command.c~
+-rw------- 1 tzha utempter    348 May  5 00:46 command.h
+-rw------- 1 tzha utempter    323 May  5 00:44 command.h~
+-rw------- 1 tzha utempter   3884 May  5 15:36 command.o
+-rw------- 1 tzha utempter  11956 Apr 30 20:40 dynarray.c
+-rw------- 1 tzha utempter   3414 Apr 30 20:40 dynarray.h
+-rw------- 1 tzha utempter   7036 May  5 15:26 dynarray.o
+-rw------- 1 tzha utempter     40 May  1 14:15 file name
+-rw------- 1 tzha utempter      0 May  3 12:34 file.txt
+-rwx------ 1 tzha utempter   4953 May  4 11:27 hello
+-rw------- 1 tzha utempter     74 May  4 11:27 hello.c
+-rw------- 1 tzha utempter     15 May  4 16:04 iosample
+-rwx------ 1 tzha utempter   5091 May  4 16:04 iotest
+-rw------- 1 tzha utempter    172 May  4 16:04 iotest.c
+-rwx------ 1 tzha utempter  21718 May  5 15:36 ish
+-rw------- 1 tzha utempter   5921 May  5 15:25 ish.c
+-rw------- 1 tzha utempter   5944 May  5 15:24 ish.c~
+-rw------- 1 tzha utempter      5 May  4 17:00 ish.h
+-rw------- 1 tzha utempter   4480 May  5 15:26 ish.o
+-rw------- 1 tzha utempter    724 May  5 15:26 makefile
+-rw------- 1 tzha utempter    706 May  5 10:53 makefile~
+-rw------- 1 tzha utempter  13538 May  5 15:33 meminfo26962.out
+-rw------- 1 tzha utempter     28 May  5 15:33 meminfo26963.out
+-rw------- 1 tzha utempter     28 May  5 15:33 meminfo26964.out
+-rw------- 1 tzha utempter     28 May  5 15:33 meminfo26965.out
+-rw------- 1 tzha utempter     28 May  5 15:33 meminfo26966.out
+-rw------- 1 tzha utempter     28 May  5 15:33 meminfo26967.out
+-rw------- 1 tzha utempter     28 May  5 15:33 meminfo26968.out
+-rw------- 1 tzha utempter     28 May  5 15:33 meminfo26969.out
+-rw------- 1 tzha utempter     29 May  5 15:33 meminfo26970.out
+-rw------- 1 tzha utempter     29 May  5 15:33 meminfo26971.out
+-rw------- 1 tzha utempter     28 May  5 15:33 meminfo26972.out
+-rw------- 1 tzha utempter     28 May  5 15:33 meminfo26973.out
+-rw------- 1 tzha utempter     28 May  5 15:33 meminfo26974.out
+-rw------- 1 tzha utempter     28 May  5 15:33 meminfo26975.out
+-rw------- 1 tzha utempter  13214 May  5 15:36 meminfo27483.out
+-rw------- 1 tzha utempter     29 May  5 15:36 meminfo27484.out
+-rw------- 1 tzha utempter     28 May  5 15:36 meminfo27485.out
+-rw------- 1 tzha utempter     28 May  5 15:36 meminfo27486.out
+-rw------- 1 tzha utempter     28 May  5 15:36 meminfo27487.out
+-rw------- 1 tzha utempter     28 May  5 15:36 meminfo27488.out
+-rw------- 1 tzha utempter     29 May  5 15:36 meminfo27489.out
+-rw------- 1 tzha utempter     28 May  5 15:36 meminfo27490.out
+-rw------- 1 tzha utempter     29 May  5 15:36 meminfo27491.out
+-rw------- 1 tzha utempter     29 May  5 15:36 meminfo27492.out
+-rw------- 1 tzha utempter     28 May  5 15:36 meminfo27493.out
+-rw------- 1 tzha utempter     29 May  5 15:36 meminfo27494.out
+-rw------- 1 tzha utempter     29 May  5 15:36 meminfo27495.out
+-rw------- 1 tzha utempter     29 May  5 15:36 meminfo27496.out
+-rw------- 1 tzha utempter   1111 May  5 15:38 meminfo28009.out
+-rw------- 1 tzha utempter     29 May  5 15:38 meminfo28010.out
+-rw------- 1 tzha utempter     28 May  5 15:38 meminfo28011.out
+-rw------- 1 tzha utempter     28 May  5 15:38 meminfo28012.out
+-rw------- 1 tzha utempter     28 May  5 15:38 meminfo28013.out
+-rw------- 1 tzha utempter     28 May  5 15:38 meminfo28014.out
+-rw------- 1 tzha utempter     29 May  5 15:38 meminfo28015.out
+-rw------- 1 tzha utempter   2770 May  2 16:49 name
+-rw------- 1 tzha utempter 404311 May  5 00:05 output
+-rwx------ 1 tzha utempter  25544 Apr 30 20:40 sampleish
+drwx------ 2 tzha utempter   4096 May  4 09:34 subfolder
+-rw------- 1 tzha utempter  37437 May  5 15:37 test
+-rw------- 1 tzha utempter    104 May  4 21:19 test.c
+-rw------- 1 tzha utempter   3414 May  4 09:24 test.h
+-rw------- 1 tzha utempter   1174 May  5 15:38 test2
+-rwx------ 1 tzha utempter  12895 May  3 13:31 token
+-rw------- 1 tzha utempter   7353 May  5 11:02 token.c
+-rw------- 1 tzha utempter   7352 May  4 23:50 token.c~
+-rw------- 1 tzha utempter    438 May  3 11:53 token.h
+-rw------- 1 tzha utempter    363 May  3 10:32 token.h~
+-rw------- 1 tzha utempter   3836 May  5 15:26 token.o
+% echo
+
+% echo one two three
+one two three
+% echo one "two   three" four
+one two   three four
+% printenv
+MANPATH=/usr/share/man:/usr/local/man:/usr/kerberos/man
+HOSTNAME=fez.Princeton.EDU
+ARCHPATH=/usr/local/bin:/usr/bin/X11
+TERM=xterm-color
+SHELL=/bin/bash
+HISTSIZE=1000
+KDE_NO_IPV6=1
+SSH_CLIENT=128.112.139.224 21527 22
+QTDIR=/usr/lib64/qt-3.3
+OLDPWD=/u/tzha
+QTINC=/usr/lib64/qt-3.3/include
+SSH_TTY=/dev/pts/50
+LC_ALL=C
+USER=tzha
+LD_LIBRARY_PATH=/usr/local/lib
+LS_COLORS=no=00:fi=00:di=00;34:ln=00;36:pi=40;33:so=00;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:ex=00;32:*.cmd=00;32:*.exe=00;32:*.com=00;32:*.btm=00;32:*.bat=00;32:*.sh=00;32:*.csh=00;32:*.tar=00;31:*.tgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.gz=00;31:*.bz2=00;31:*.bz=00;31:*.tz=00;31:*.rpm=00;31:*.cpio=00;31:*.jpg=00;35:*.gif=00;35:*.bmp=00;35:*.xbm=00;35:*.xpm=00;35:*.png=00;35:*.tif=00;35:
+KDEDIR=/usr
+MAIL=/var/spool/mail/tzha
+PATH=/u/cos217/bin:/u/cos217/bin/i686:/u/cos217/bin/i686/memstat:/u/cos217/bin/i686/meminfo:/u/tzha/bin:/usr/local/bin:/usr/bin/X11:/usr/licensed/bin:/usr/bin:/bin:.
+INPUTRC=/etc/inputrc
+PWD=/u/tzha/COS217/Assignment7
+LANG=en_US.UTF-8
+KDE_IS_PRELINKED=1
+AMEWINDOWS=20 80 90
+ARCHLD=/usr/local/lib
+PS1=\[\e[32m\]\h:\w\[\e[0m\]$ 
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SHLVL=1
+HOME=/u/tzha
+LOGNAME=tzha
+PRINTER=all_clusters_d
+QTLIB=/usr/lib64/qt-3.3/lib
+CVS_RSH=ssh
+SSH_CONNECTION=128.112.139.224 21527 128.112.129.190 22
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+G_BROKEN_FILENAMES=1
+_=./ish
+% printenv PATH
+/u/cos217/bin:/u/cos217/bin/i686:/u/cos217/bin/i686/memstat:/u/cos217/bin/i686/meminfo:/u/tzha/bin:/usr/local/bin:/usr/bin/X11:/usr/licensed/bin:/usr/bin:/bin:.
+% printenv HOME
+/u/tzha
+% 
+% echo "*** SHELL BUILTIN COMMANDS (cd, setenv, unsetenv)"
+*** SHELL BUILTIN COMMANDS (cd, setenv, unsetenv)
+% cd /usr
+% pwd
+% cd bin
+% pwd
+% cd
+% pwd
+/n/homeserver2/user2a/tzha
+% setenv XXX 123
+% printenv
+MANPATH=/usr/share/man:/usr/local/man:/usr/kerberos/man
+HOSTNAME=fez.Princeton.EDU
+ARCHPATH=/usr/local/bin:/usr/bin/X11
+TERM=xterm-color
+SHELL=/bin/bash
+HISTSIZE=1000
+KDE_NO_IPV6=1
+SSH_CLIENT=128.112.139.224 21527 22
+QTDIR=/usr/lib64/qt-3.3
+OLDPWD=/u/tzha
+QTINC=/usr/lib64/qt-3.3/include
+SSH_TTY=/dev/pts/50
+LC_ALL=C
+USER=tzha
+LD_LIBRARY_PATH=/usr/local/lib
+LS_COLORS=no=00:fi=00:di=00;34:ln=00;36:pi=40;33:so=00;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:ex=00;32:*.cmd=00;32:*.exe=00;32:*.com=00;32:*.btm=00;32:*.bat=00;32:*.sh=00;32:*.csh=00;32:*.tar=00;31:*.tgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.gz=00;31:*.bz2=00;31:*.bz=00;31:*.tz=00;31:*.rpm=00;31:*.cpio=00;31:*.jpg=00;35:*.gif=00;35:*.bmp=00;35:*.xbm=00;35:*.xpm=00;35:*.png=00;35:*.tif=00;35:
+KDEDIR=/usr
+MAIL=/var/spool/mail/tzha
+PATH=/u/cos217/bin:/u/cos217/bin/i686:/u/cos217/bin/i686/memstat:/u/cos217/bin/i686/meminfo:/u/tzha/bin:/usr/local/bin:/usr/bin/X11:/usr/licensed/bin:/usr/bin:/bin:.
+INPUTRC=/etc/inputrc
+PWD=/u/tzha/COS217/Assignment7
+LANG=en_US.UTF-8
+KDE_IS_PRELINKED=1
+AMEWINDOWS=20 80 90
+ARCHLD=/usr/local/lib
+PS1=\[\e[32m\]\h:\w\[\e[0m\]$ 
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SHLVL=1
+HOME=/u/tzha
+LOGNAME=tzha
+PRINTER=all_clusters_d
+QTLIB=/usr/lib64/qt-3.3/lib
+CVS_RSH=ssh
+SSH_CONNECTION=128.112.139.224 21527 128.112.129.190 22
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+G_BROKEN_FILENAMES=1
+_=./ish
+% printenv XXX
+% unsetenv XXX
+% printenv
+MANPATH=/usr/share/man:/usr/local/man:/usr/kerberos/man
+HOSTNAME=fez.Princeton.EDU
+ARCHPATH=/usr/local/bin:/usr/bin/X11
+TERM=xterm-color
+SHELL=/bin/bash
+HISTSIZE=1000
+KDE_NO_IPV6=1
+SSH_CLIENT=128.112.139.224 21527 22
+QTDIR=/usr/lib64/qt-3.3
+OLDPWD=/u/tzha
+QTINC=/usr/lib64/qt-3.3/include
+SSH_TTY=/dev/pts/50
+LC_ALL=C
+USER=tzha
+LD_LIBRARY_PATH=/usr/local/lib
+LS_COLORS=no=00:fi=00:di=00;34:ln=00;36:pi=40;33:so=00;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:ex=00;32:*.cmd=00;32:*.exe=00;32:*.com=00;32:*.btm=00;32:*.bat=00;32:*.sh=00;32:*.csh=00;32:*.tar=00;31:*.tgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.gz=00;31:*.bz2=00;31:*.bz=00;31:*.tz=00;31:*.rpm=00;31:*.cpio=00;31:*.jpg=00;35:*.gif=00;35:*.bmp=00;35:*.xbm=00;35:*.xpm=00;35:*.png=00;35:*.tif=00;35:
+KDEDIR=/usr
+MAIL=/var/spool/mail/tzha
+PATH=/u/cos217/bin:/u/cos217/bin/i686:/u/cos217/bin/i686/memstat:/u/cos217/bin/i686/meminfo:/u/tzha/bin:/usr/local/bin:/usr/bin/X11:/usr/licensed/bin:/usr/bin:/bin:.
+INPUTRC=/etc/inputrc
+PWD=/u/tzha/COS217/Assignment7
+LANG=en_US.UTF-8
+KDE_IS_PRELINKED=1
+AMEWINDOWS=20 80 90
+ARCHLD=/usr/local/lib
+PS1=\[\e[32m\]\h:\w\[\e[0m\]$ 
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SHLVL=1
+HOME=/u/tzha
+LOGNAME=tzha
+PRINTER=all_clusters_d
+QTLIB=/usr/lib64/qt-3.3/lib
+CVS_RSH=ssh
+SSH_CONNECTION=128.112.139.224 21527 128.112.129.190 22
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+G_BROKEN_FILENAMES=1
+_=./ish
+% printenv XXX
+% 
+% echo "*** REDIRECTION"
+*** REDIRECTION
+% ls > junk
+% cat junk
+#decomment.c#
+#hello#
+#testintmath.c#
+$RECYCLE.BIN
+10 Fall
+COS217
+Class Day Program
+ClusterDesktop
+ClusterDownloads
+MACOSXFILES
+MATLAB
+Music
+Pictures
+SSN documents
+Student Orgs
+TOPRINT
+TUTORIAL
+TUTORIAL~
+Thumbs.db
+Tiantian Zha.doc
+Videos
+Visual Studio 2008
+circle.c
+circle.c~
+decomment
+decomment.c~
+desktop.ini
+hello.c
+junk
+long term earnings.jpg
+meminfo1284.out
+meminfo1285.out
+meminfo1286.out
+meminfo1287.out
+meminfo1288.out
+meminfo1289.out
+meminfo1290.out
+meminfo1291.out
+meminfo1292.out
+meminfo1293.out
+meminfo1294.out
+meminfo1295.out
+meminfo1296.out
+meminfo1297.out
+meminfo1298.out
+meminfo1299.out
+meminfo1300.out
+meminfo1301.out
+meminfo1303.out
+meminfo1304.out
+meminfo1305.out
+meminfo1306.out
+meminfo1307.out
+meminfo1308.out
+meminfo20163.out
+meminfo20164.out
+meminfo20165.out
+meminfo20166.out
+meminfo20167.out
+meminfo20168.out
+meminfo20169.out
+meminfo20170.out
+meminfo20171.out
+meminfo20172.out
+meminfo20173.out
+meminfo20174.out
+meminfo20175.out
+meminfo20176.out
+meminfo20177.out
+meminfo20178.out
+meminfo20179.out
+meminfo20180.out
+meminfo20182.out
+meminfo20183.out
+meminfo20184.out
+meminfo20185.out
+meminfo20186.out
+meminfo20187.out
+meminfo2092.out
+meminfo2093.out
+meminfo2094.out
+meminfo2095.out
+meminfo2096.out
+meminfo2097.out
+meminfo2098.out
+meminfo2099.out
+meminfo2100.out
+meminfo2101.out
+meminfo2102.out
+meminfo2103.out
+meminfo2104.out
+meminfo2105.out
+meminfo2106.out
+meminfo2107.out
+meminfo2108.out
+meminfo2109.out
+meminfo2111.out
+meminfo2112.out
+meminfo2113.out
+meminfo2114.out
+meminfo2115.out
+meminfo2116.out
+meminfo24746.out
+meminfo26978.out
+meminfo26979.out
+meminfo26980.out
+meminfo26981.out
+meminfo26982.out
+meminfo26983.out
+meminfo26984.out
+meminfo26985.out
+meminfo26986.out
+meminfo26987.out
+meminfo26988.out
+meminfo26989.out
+meminfo26990.out
+meminfo26991.out
+meminfo26992.out
+meminfo26993.out
+meminfo26994.out
+meminfo26995.out
+meminfo26997.out
+meminfo26998.out
+meminfo26999.out
+meminfo27000.out
+meminfo27001.out
+meminfo27002.out
+meminfo27499.out
+meminfo27500.out
+meminfo27501.out
+meminfo27502.out
+meminfo27503.out
+meminfo27504.out
+meminfo27505.out
+meminfo27506.out
+meminfo27507.out
+meminfo27508.out
+meminfo27509.out
+meminfo27510.out
+meminfo27511.out
+meminfo27512.out
+meminfo27513.out
+meminfo27514.out
+meminfo27515.out
+meminfo27516.out
+meminfo27518.out
+meminfo27519.out
+meminfo27520.out
+meminfo27521.out
+meminfo27522.out
+meminfo27523.out
+meminfo28025.out
+meminfo28026.out
+meminfo28027.out
+meminfo28028.out
+meminfo28029.out
+meminfo28030.out
+meminfo28031.out
+meminfo3470.out
+meminfo3471.out
+meminfo3472.out
+meminfo3473.out
+meminfo3474.out
+meminfo3475.out
+meminfo3476.out
+meminfo3477.out
+meminfo3478.out
+meminfo3479.out
+meminfo3480.out
+meminfo3481.out
+meminfo3482.out
+meminfo3483.out
+meminfo3484.out
+meminfo3485.out
+meminfo3486.out
+meminfo3487.out
+meminfo3489.out
+meminfo3490.out
+meminfo3491.out
+meminfo3492.out
+meminfo3493.out
+meminfo3494.out
+meminfo3533.out
+meminfo3534.out
+meminfo3535.out
+meminfo3536.out
+meminfo3537.out
+meminfo3538.out
+meminfo3539.out
+meminfo3540.out
+meminfo3541.out
+meminfo3542.out
+meminfo3543.out
+meminfo3544.out
+meminfo3545.out
+meminfo3546.out
+meminfo3547.out
+meminfo3548.out
+meminfo3549.out
+meminfo3550.out
+meminfo3552.out
+meminfo3553.out
+meminfo3554.out
+meminfo3555.out
+meminfo3556.out
+meminfo3557.out
+meminfo4170.out
+meminfo4171.out
+meminfo4172.out
+meminfo4173.out
+meminfo4174.out
+meminfo4175.out
+meminfo4176.out
+meminfo4177.out
+meminfo4178.out
+meminfo4179.out
+meminfo4180.out
+meminfo4181.out
+meminfo4182.out
+meminfo4183.out
+meminfo4184.out
+meminfo4185.out
+meminfo4186.out
+meminfo4187.out
+meminfo4189.out
+meminfo4190.out
+meminfo4191.out
+meminfo4192.out
+meminfo4193.out
+meminfo4194.out
+meminfo5516.out
+meminfo5517.out
+meminfo5518.out
+meminfo5519.out
+meminfo5520.out
+meminfo5521.out
+meminfo5522.out
+meminfo5523.out
+meminfo5524.out
+meminfo5525.out
+meminfo5526.out
+meminfo5527.out
+meminfo5528.out
+meminfo5529.out
+meminfo5530.out
+meminfo5531.out
+meminfo5532.out
+meminfo5533.out
+meminfo5535.out
+meminfo5536.out
+meminfo5537.out
+meminfo5538.out
+meminfo5539.out
+meminfo5540.out
+meminfo5610.out
+meminfo5611.out
+meminfo5612.out
+meminfo5613.out
+meminfo5614.out
+meminfo5615.out
+meminfo5616.out
+meminfo5617.out
+meminfo5618.out
+meminfo5619.out
+meminfo5620.out
+meminfo5621.out
+meminfo5622.out
+meminfo5623.out
+meminfo5624.out
+meminfo5625.out
+meminfo5626.out
+meminfo5627.out
+meminfo5629.out
+meminfo5630.out
+meminfo5631.out
+meminfo5632.out
+meminfo5633.out
+meminfo5634.out
+public_html
+sponsors.indd
+sponsors.pdf
+surviving mutual funds.jpg
+testintmath.c
+testintmath.c~
+workspace
+~$antian Zha.doc
+~$uis et Scudery.doc
+% cat < junk
+#decomment.c#
+#hello#
+#testintmath.c#
+$RECYCLE.BIN
+10 Fall
+COS217
+Class Day Program
+ClusterDesktop
+ClusterDownloads
+MACOSXFILES
+MATLAB
+Music
+Pictures
+SSN documents
+Student Orgs
+TOPRINT
+TUTORIAL
+TUTORIAL~
+Thumbs.db
+Tiantian Zha.doc
+Videos
+Visual Studio 2008
+circle.c
+circle.c~
+decomment
+decomment.c~
+desktop.ini
+hello.c
+junk
+long term earnings.jpg
+meminfo1284.out
+meminfo1285.out
+meminfo1286.out
+meminfo1287.out
+meminfo1288.out
+meminfo1289.out
+meminfo1290.out
+meminfo1291.out
+meminfo1292.out
+meminfo1293.out
+meminfo1294.out
+meminfo1295.out
+meminfo1296.out
+meminfo1297.out
+meminfo1298.out
+meminfo1299.out
+meminfo1300.out
+meminfo1301.out
+meminfo1303.out
+meminfo1304.out
+meminfo1305.out
+meminfo1306.out
+meminfo1307.out
+meminfo1308.out
+meminfo20163.out
+meminfo20164.out
+meminfo20165.out
+meminfo20166.out
+meminfo20167.out
+meminfo20168.out
+meminfo20169.out
+meminfo20170.out
+meminfo20171.out
+meminfo20172.out
+meminfo20173.out
+meminfo20174.out
+meminfo20175.out
+meminfo20176.out
+meminfo20177.out
+meminfo20178.out
+meminfo20179.out
+meminfo20180.out
+meminfo20182.out
+meminfo20183.out
+meminfo20184.out
+meminfo20185.out
+meminfo20186.out
+meminfo20187.out
+meminfo2092.out
+meminfo2093.out
+meminfo2094.out
+meminfo2095.out
+meminfo2096.out
+meminfo2097.out
+meminfo2098.out
+meminfo2099.out
+meminfo2100.out
+meminfo2101.out
+meminfo2102.out
+meminfo2103.out
+meminfo2104.out
+meminfo2105.out
+meminfo2106.out
+meminfo2107.out
+meminfo2108.out
+meminfo2109.out
+meminfo2111.out
+meminfo2112.out
+meminfo2113.out
+meminfo2114.out
+meminfo2115.out
+meminfo2116.out
+meminfo24746.out
+meminfo26978.out
+meminfo26979.out
+meminfo26980.out
+meminfo26981.out
+meminfo26982.out
+meminfo26983.out
+meminfo26984.out
+meminfo26985.out
+meminfo26986.out
+meminfo26987.out
+meminfo26988.out
+meminfo26989.out
+meminfo26990.out
+meminfo26991.out
+meminfo26992.out
+meminfo26993.out
+meminfo26994.out
+meminfo26995.out
+meminfo26997.out
+meminfo26998.out
+meminfo26999.out
+meminfo27000.out
+meminfo27001.out
+meminfo27002.out
+meminfo27499.out
+meminfo27500.out
+meminfo27501.out
+meminfo27502.out
+meminfo27503.out
+meminfo27504.out
+meminfo27505.out
+meminfo27506.out
+meminfo27507.out
+meminfo27508.out
+meminfo27509.out
+meminfo27510.out
+meminfo27511.out
+meminfo27512.out
+meminfo27513.out
+meminfo27514.out
+meminfo27515.out
+meminfo27516.out
+meminfo27518.out
+meminfo27519.out
+meminfo27520.out
+meminfo27521.out
+meminfo27522.out
+meminfo27523.out
+meminfo28025.out
+meminfo28026.out
+meminfo28027.out
+meminfo28028.out
+meminfo28029.out
+meminfo28030.out
+meminfo28031.out
+meminfo3470.out
+meminfo3471.out
+meminfo3472.out
+meminfo3473.out
+meminfo3474.out
+meminfo3475.out
+meminfo3476.out
+meminfo3477.out
+meminfo3478.out
+meminfo3479.out
+meminfo3480.out
+meminfo3481.out
+meminfo3482.out
+meminfo3483.out
+meminfo3484.out
+meminfo3485.out
+meminfo3486.out
+meminfo3487.out
+meminfo3489.out
+meminfo3490.out
+meminfo3491.out
+meminfo3492.out
+meminfo3493.out
+meminfo3494.out
+meminfo3533.out
+meminfo3534.out
+meminfo3535.out
+meminfo3536.out
+meminfo3537.out
+meminfo3538.out
+meminfo3539.out
+meminfo3540.out
+meminfo3541.out
+meminfo3542.out
+meminfo3543.out
+meminfo3544.out
+meminfo3545.out
+meminfo3546.out
+meminfo3547.out
+meminfo3548.out
+meminfo3549.out
+meminfo3550.out
+meminfo3552.out
+meminfo3553.out
+meminfo3554.out
+meminfo3555.out
+meminfo3556.out
+meminfo3557.out
+meminfo4170.out
+meminfo4171.out
+meminfo4172.out
+meminfo4173.out
+meminfo4174.out
+meminfo4175.out
+meminfo4176.out
+meminfo4177.out
+meminfo4178.out
+meminfo4179.out
+meminfo4180.out
+meminfo4181.out
+meminfo4182.out
+meminfo4183.out
+meminfo4184.out
+meminfo4185.out
+meminfo4186.out
+meminfo4187.out
+meminfo4189.out
+meminfo4190.out
+meminfo4191.out
+meminfo4192.out
+meminfo4193.out
+meminfo4194.out
+meminfo5516.out
+meminfo5517.out
+meminfo5518.out
+meminfo5519.out
+meminfo5520.out
+meminfo5521.out
+meminfo5522.out
+meminfo5523.out
+meminfo5524.out
+meminfo5525.out
+meminfo5526.out
+meminfo5527.out
+meminfo5528.out
+meminfo5529.out
+meminfo5530.out
+meminfo5531.out
+meminfo5532.out
+meminfo5533.out
+meminfo5535.out
+meminfo5536.out
+meminfo5537.out
+meminfo5538.out
+meminfo5539.out
+meminfo5540.out
+meminfo5610.out
+meminfo5611.out
+meminfo5612.out
+meminfo5613.out
+meminfo5614.out
+meminfo5615.out
+meminfo5616.out
+meminfo5617.out
+meminfo5618.out
+meminfo5619.out
+meminfo5620.out
+meminfo5621.out
+meminfo5622.out
+meminfo5623.out
+meminfo5624.out
+meminfo5625.out
+meminfo5626.out
+meminfo5627.out
+meminfo5629.out
+meminfo5630.out
+meminfo5631.out
+meminfo5632.out
+meminfo5633.out
+meminfo5634.out
+public_html
+sponsors.indd
+sponsors.pdf
+surviving mutual funds.jpg
+testintmath.c
+testintmath.c~
+workspace
+~$antian Zha.doc
+~$uis et Scudery.doc
+% cat < junk > junk2
+% cat junk2
+#decomment.c#
+#hello#
+#testintmath.c#
+$RECYCLE.BIN
+10 Fall
+COS217
+Class Day Program
+ClusterDesktop
+ClusterDownloads
+MACOSXFILES
+MATLAB
+Music
+Pictures
+SSN documents
+Student Orgs
+TOPRINT
+TUTORIAL
+TUTORIAL~
+Thumbs.db
+Tiantian Zha.doc
+Videos
+Visual Studio 2008
+circle.c
+circle.c~
+decomment
+decomment.c~
+desktop.ini
+hello.c
+junk
+long term earnings.jpg
+meminfo1284.out
+meminfo1285.out
+meminfo1286.out
+meminfo1287.out
+meminfo1288.out
+meminfo1289.out
+meminfo1290.out
+meminfo1291.out
+meminfo1292.out
+meminfo1293.out
+meminfo1294.out
+meminfo1295.out
+meminfo1296.out
+meminfo1297.out
+meminfo1298.out
+meminfo1299.out
+meminfo1300.out
+meminfo1301.out
+meminfo1303.out
+meminfo1304.out
+meminfo1305.out
+meminfo1306.out
+meminfo1307.out
+meminfo1308.out
+meminfo20163.out
+meminfo20164.out
+meminfo20165.out
+meminfo20166.out
+meminfo20167.out
+meminfo20168.out
+meminfo20169.out
+meminfo20170.out
+meminfo20171.out
+meminfo20172.out
+meminfo20173.out
+meminfo20174.out
+meminfo20175.out
+meminfo20176.out
+meminfo20177.out
+meminfo20178.out
+meminfo20179.out
+meminfo20180.out
+meminfo20182.out
+meminfo20183.out
+meminfo20184.out
+meminfo20185.out
+meminfo20186.out
+meminfo20187.out
+meminfo2092.out
+meminfo2093.out
+meminfo2094.out
+meminfo2095.out
+meminfo2096.out
+meminfo2097.out
+meminfo2098.out
+meminfo2099.out
+meminfo2100.out
+meminfo2101.out
+meminfo2102.out
+meminfo2103.out
+meminfo2104.out
+meminfo2105.out
+meminfo2106.out
+meminfo2107.out
+meminfo2108.out
+meminfo2109.out
+meminfo2111.out
+meminfo2112.out
+meminfo2113.out
+meminfo2114.out
+meminfo2115.out
+meminfo2116.out
+meminfo24746.out
+meminfo26978.out
+meminfo26979.out
+meminfo26980.out
+meminfo26981.out
+meminfo26982.out
+meminfo26983.out
+meminfo26984.out
+meminfo26985.out
+meminfo26986.out
+meminfo26987.out
+meminfo26988.out
+meminfo26989.out
+meminfo26990.out
+meminfo26991.out
+meminfo26992.out
+meminfo26993.out
+meminfo26994.out
+meminfo26995.out
+meminfo26997.out
+meminfo26998.out
+meminfo26999.out
+meminfo27000.out
+meminfo27001.out
+meminfo27002.out
+meminfo27499.out
+meminfo27500.out
+meminfo27501.out
+meminfo27502.out
+meminfo27503.out
+meminfo27504.out
+meminfo27505.out
+meminfo27506.out
+meminfo27507.out
+meminfo27508.out
+meminfo27509.out
+meminfo27510.out
+meminfo27511.out
+meminfo27512.out
+meminfo27513.out
+meminfo27514.out
+meminfo27515.out
+meminfo27516.out
+meminfo27518.out
+meminfo27519.out
+meminfo27520.out
+meminfo27521.out
+meminfo27522.out
+meminfo27523.out
+meminfo28025.out
+meminfo28026.out
+meminfo28027.out
+meminfo28028.out
+meminfo28029.out
+meminfo28030.out
+meminfo28031.out
+meminfo3470.out
+meminfo3471.out
+meminfo3472.out
+meminfo3473.out
+meminfo3474.out
+meminfo3475.out
+meminfo3476.out
+meminfo3477.out
+meminfo3478.out
+meminfo3479.out
+meminfo3480.out
+meminfo3481.out
+meminfo3482.out
+meminfo3483.out
+meminfo3484.out
+meminfo3485.out
+meminfo3486.out
+meminfo3487.out
+meminfo3489.out
+meminfo3490.out
+meminfo3491.out
+meminfo3492.out
+meminfo3493.out
+meminfo3494.out
+meminfo3533.out
+meminfo3534.out
+meminfo3535.out
+meminfo3536.out
+meminfo3537.out
+meminfo3538.out
+meminfo3539.out
+meminfo3540.out
+meminfo3541.out
+meminfo3542.out
+meminfo3543.out
+meminfo3544.out
+meminfo3545.out
+meminfo3546.out
+meminfo3547.out
+meminfo3548.out
+meminfo3549.out
+meminfo3550.out
+meminfo3552.out
+meminfo3553.out
+meminfo3554.out
+meminfo3555.out
+meminfo3556.out
+meminfo3557.out
+meminfo4170.out
+meminfo4171.out
+meminfo4172.out
+meminfo4173.out
+meminfo4174.out
+meminfo4175.out
+meminfo4176.out
+meminfo4177.out
+meminfo4178.out
+meminfo4179.out
+meminfo4180.out
+meminfo4181.out
+meminfo4182.out
+meminfo4183.out
+meminfo4184.out
+meminfo4185.out
+meminfo4186.out
+meminfo4187.out
+meminfo4189.out
+meminfo4190.out
+meminfo4191.out
+meminfo4192.out
+meminfo4193.out
+meminfo4194.out
+meminfo5516.out
+meminfo5517.out
+meminfo5518.out
+meminfo5519.out
+meminfo5520.out
+meminfo5521.out
+meminfo5522.out
+meminfo5523.out
+meminfo5524.out
+meminfo5525.out
+meminfo5526.out
+meminfo5527.out
+meminfo5528.out
+meminfo5529.out
+meminfo5530.out
+meminfo5531.out
+meminfo5532.out
+meminfo5533.out
+meminfo5535.out
+meminfo5536.out
+meminfo5537.out
+meminfo5538.out
+meminfo5539.out
+meminfo5540.out
+meminfo5610.out
+meminfo5611.out
+meminfo5612.out
+meminfo5613.out
+meminfo5614.out
+meminfo5615.out
+meminfo5616.out
+meminfo5617.out
+meminfo5618.out
+meminfo5619.out
+meminfo5620.out
+meminfo5621.out
+meminfo5622.out
+meminfo5623.out
+meminfo5624.out
+meminfo5625.out
+meminfo5626.out
+meminfo5627.out
+meminfo5629.out
+meminfo5630.out
+meminfo5631.out
+meminfo5632.out
+meminfo5633.out
+meminfo5634.out
+public_html
+sponsors.indd
+sponsors.pdf
+surviving mutual funds.jpg
+testintmath.c
+testintmath.c~
+workspace
+~$antian Zha.doc
+~$uis et Scudery.doc
+% cat > junk3 < junk2
+% cat junk3
+#decomment.c#
+#hello#
+#testintmath.c#
+$RECYCLE.BIN
+10 Fall
+COS217
+Class Day Program
+ClusterDesktop
+ClusterDownloads
+MACOSXFILES
+MATLAB
+Music
+Pictures
+SSN documents
+Student Orgs
+TOPRINT
+TUTORIAL
+TUTORIAL~
+Thumbs.db
+Tiantian Zha.doc
+Videos
+Visual Studio 2008
+circle.c
+circle.c~
+decomment
+decomment.c~
+desktop.ini
+hello.c
+junk
+long term earnings.jpg
+meminfo1284.out
+meminfo1285.out
+meminfo1286.out
+meminfo1287.out
+meminfo1288.out
+meminfo1289.out
+meminfo1290.out
+meminfo1291.out
+meminfo1292.out
+meminfo1293.out
+meminfo1294.out
+meminfo1295.out
+meminfo1296.out
+meminfo1297.out
+meminfo1298.out
+meminfo1299.out
+meminfo1300.out
+meminfo1301.out
+meminfo1303.out
+meminfo1304.out
+meminfo1305.out
+meminfo1306.out
+meminfo1307.out
+meminfo1308.out
+meminfo20163.out
+meminfo20164.out
+meminfo20165.out
+meminfo20166.out
+meminfo20167.out
+meminfo20168.out
+meminfo20169.out
+meminfo20170.out
+meminfo20171.out
+meminfo20172.out
+meminfo20173.out
+meminfo20174.out
+meminfo20175.out
+meminfo20176.out
+meminfo20177.out
+meminfo20178.out
+meminfo20179.out
+meminfo20180.out
+meminfo20182.out
+meminfo20183.out
+meminfo20184.out
+meminfo20185.out
+meminfo20186.out
+meminfo20187.out
+meminfo2092.out
+meminfo2093.out
+meminfo2094.out
+meminfo2095.out
+meminfo2096.out
+meminfo2097.out
+meminfo2098.out
+meminfo2099.out
+meminfo2100.out
+meminfo2101.out
+meminfo2102.out
+meminfo2103.out
+meminfo2104.out
+meminfo2105.out
+meminfo2106.out
+meminfo2107.out
+meminfo2108.out
+meminfo2109.out
+meminfo2111.out
+meminfo2112.out
+meminfo2113.out
+meminfo2114.out
+meminfo2115.out
+meminfo2116.out
+meminfo24746.out
+meminfo26978.out
+meminfo26979.out
+meminfo26980.out
+meminfo26981.out
+meminfo26982.out
+meminfo26983.out
+meminfo26984.out
+meminfo26985.out
+meminfo26986.out
+meminfo26987.out
+meminfo26988.out
+meminfo26989.out
+meminfo26990.out
+meminfo26991.out
+meminfo26992.out
+meminfo26993.out
+meminfo26994.out
+meminfo26995.out
+meminfo26997.out
+meminfo26998.out
+meminfo26999.out
+meminfo27000.out
+meminfo27001.out
+meminfo27002.out
+meminfo27499.out
+meminfo27500.out
+meminfo27501.out
+meminfo27502.out
+meminfo27503.out
+meminfo27504.out
+meminfo27505.out
+meminfo27506.out
+meminfo27507.out
+meminfo27508.out
+meminfo27509.out
+meminfo27510.out
+meminfo27511.out
+meminfo27512.out
+meminfo27513.out
+meminfo27514.out
+meminfo27515.out
+meminfo27516.out
+meminfo27518.out
+meminfo27519.out
+meminfo27520.out
+meminfo27521.out
+meminfo27522.out
+meminfo27523.out
+meminfo28025.out
+meminfo28026.out
+meminfo28027.out
+meminfo28028.out
+meminfo28029.out
+meminfo28030.out
+meminfo28031.out
+meminfo3470.out
+meminfo3471.out
+meminfo3472.out
+meminfo3473.out
+meminfo3474.out
+meminfo3475.out
+meminfo3476.out
+meminfo3477.out
+meminfo3478.out
+meminfo3479.out
+meminfo3480.out
+meminfo3481.out
+meminfo3482.out
+meminfo3483.out
+meminfo3484.out
+meminfo3485.out
+meminfo3486.out
+meminfo3487.out
+meminfo3489.out
+meminfo3490.out
+meminfo3491.out
+meminfo3492.out
+meminfo3493.out
+meminfo3494.out
+meminfo3533.out
+meminfo3534.out
+meminfo3535.out
+meminfo3536.out
+meminfo3537.out
+meminfo3538.out
+meminfo3539.out
+meminfo3540.out
+meminfo3541.out
+meminfo3542.out
+meminfo3543.out
+meminfo3544.out
+meminfo3545.out
+meminfo3546.out
+meminfo3547.out
+meminfo3548.out
+meminfo3549.out
+meminfo3550.out
+meminfo3552.out
+meminfo3553.out
+meminfo3554.out
+meminfo3555.out
+meminfo3556.out
+meminfo3557.out
+meminfo4170.out
+meminfo4171.out
+meminfo4172.out
+meminfo4173.out
+meminfo4174.out
+meminfo4175.out
+meminfo4176.out
+meminfo4177.out
+meminfo4178.out
+meminfo4179.out
+meminfo4180.out
+meminfo4181.out
+meminfo4182.out
+meminfo4183.out
+meminfo4184.out
+meminfo4185.out
+meminfo4186.out
+meminfo4187.out
+meminfo4189.out
+meminfo4190.out
+meminfo4191.out
+meminfo4192.out
+meminfo4193.out
+meminfo4194.out
+meminfo5516.out
+meminfo5517.out
+meminfo5518.out
+meminfo5519.out
+meminfo5520.out
+meminfo5521.out
+meminfo5522.out
+meminfo5523.out
+meminfo5524.out
+meminfo5525.out
+meminfo5526.out
+meminfo5527.out
+meminfo5528.out
+meminfo5529.out
+meminfo5530.out
+meminfo5531.out
+meminfo5532.out
+meminfo5533.out
+meminfo5535.out
+meminfo5536.out
+meminfo5537.out
+meminfo5538.out
+meminfo5539.out
+meminfo5540.out
+meminfo5610.out
+meminfo5611.out
+meminfo5612.out
+meminfo5613.out
+meminfo5614.out
+meminfo5615.out
+meminfo5616.out
+meminfo5617.out
+meminfo5618.out
+meminfo5619.out
+meminfo5620.out
+meminfo5621.out
+meminfo5622.out
+meminfo5623.out
+meminfo5624.out
+meminfo5625.out
+meminfo5626.out
+meminfo5627.out
+meminfo5629.out
+meminfo5630.out
+meminfo5631.out
+meminfo5632.out
+meminfo5633.out
+meminfo5634.out
+public_html
+sponsors.indd
+sponsors.pdf
+surviving mutual funds.jpg
+testintmath.c
+testintmath.c~
+workspace
+~$antian Zha.doc
+~$uis et Scudery.doc
+% cat junk2 > junk4 junk3
+% cat junk4
+#decomment.c#
+#hello#
+#testintmath.c#
+$RECYCLE.BIN
+10 Fall
+COS217
+Class Day Program
+ClusterDesktop
+ClusterDownloads
+MACOSXFILES
+MATLAB
+Music
+Pictures
+SSN documents
+Student Orgs
+TOPRINT
+TUTORIAL
+TUTORIAL~
+Thumbs.db
+Tiantian Zha.doc
+Videos
+Visual Studio 2008
+circle.c
+circle.c~
+decomment
+decomment.c~
+desktop.ini
+hello.c
+junk
+long term earnings.jpg
+meminfo1284.out
+meminfo1285.out
+meminfo1286.out
+meminfo1287.out
+meminfo1288.out
+meminfo1289.out
+meminfo1290.out
+meminfo1291.out
+meminfo1292.out
+meminfo1293.out
+meminfo1294.out
+meminfo1295.out
+meminfo1296.out
+meminfo1297.out
+meminfo1298.out
+meminfo1299.out
+meminfo1300.out
+meminfo1301.out
+meminfo1303.out
+meminfo1304.out
+meminfo1305.out
+meminfo1306.out
+meminfo1307.out
+meminfo1308.out
+meminfo20163.out
+meminfo20164.out
+meminfo20165.out
+meminfo20166.out
+meminfo20167.out
+meminfo20168.out
+meminfo20169.out
+meminfo20170.out
+meminfo20171.out
+meminfo20172.out
+meminfo20173.out
+meminfo20174.out
+meminfo20175.out
+meminfo20176.out
+meminfo20177.out
+meminfo20178.out
+meminfo20179.out
+meminfo20180.out
+meminfo20182.out
+meminfo20183.out
+meminfo20184.out
+meminfo20185.out
+meminfo20186.out
+meminfo20187.out
+meminfo2092.out
+meminfo2093.out
+meminfo2094.out
+meminfo2095.out
+meminfo2096.out
+meminfo2097.out
+meminfo2098.out
+meminfo2099.out
+meminfo2100.out
+meminfo2101.out
+meminfo2102.out
+meminfo2103.out
+meminfo2104.out
+meminfo2105.out
+meminfo2106.out
+meminfo2107.out
+meminfo2108.out
+meminfo2109.out
+meminfo2111.out
+meminfo2112.out
+meminfo2113.out
+meminfo2114.out
+meminfo2115.out
+meminfo2116.out
+meminfo24746.out
+meminfo26978.out
+meminfo26979.out
+meminfo26980.out
+meminfo26981.out
+meminfo26982.out
+meminfo26983.out
+meminfo26984.out
+meminfo26985.out
+meminfo26986.out
+meminfo26987.out
+meminfo26988.out
+meminfo26989.out
+meminfo26990.out
+meminfo26991.out
+meminfo26992.out
+meminfo26993.out
+meminfo26994.out
+meminfo26995.out
+meminfo26997.out
+meminfo26998.out
+meminfo26999.out
+meminfo27000.out
+meminfo27001.out
+meminfo27002.out
+meminfo27499.out
+meminfo27500.out
+meminfo27501.out
+meminfo27502.out
+meminfo27503.out
+meminfo27504.out
+meminfo27505.out
+meminfo27506.out
+meminfo27507.out
+meminfo27508.out
+meminfo27509.out
+meminfo27510.out
+meminfo27511.out
+meminfo27512.out
+meminfo27513.out
+meminfo27514.out
+meminfo27515.out
+meminfo27516.out
+meminfo27518.out
+meminfo27519.out
+meminfo27520.out
+meminfo27521.out
+meminfo27522.out
+meminfo27523.out
+meminfo28025.out
+meminfo28026.out
+meminfo28027.out
+meminfo28028.out
+meminfo28029.out
+meminfo28030.out
+meminfo28031.out
+meminfo3470.out
+meminfo3471.out
+meminfo3472.out
+meminfo3473.out
+meminfo3474.out
+meminfo3475.out
+meminfo3476.out
+meminfo3477.out
+meminfo3478.out
+meminfo3479.out
+meminfo3480.out
+meminfo3481.out
+meminfo3482.out
+meminfo3483.out
+meminfo3484.out
+meminfo3485.out
+meminfo3486.out
+meminfo3487.out
+meminfo3489.out
+meminfo3490.out
+meminfo3491.out
+meminfo3492.out
+meminfo3493.out
+meminfo3494.out
+meminfo3533.out
+meminfo3534.out
+meminfo3535.out
+meminfo3536.out
+meminfo3537.out
+meminfo3538.out
+meminfo3539.out
+meminfo3540.out
+meminfo3541.out
+meminfo3542.out
+meminfo3543.out
+meminfo3544.out
+meminfo3545.out
+meminfo3546.out
+meminfo3547.out
+meminfo3548.out
+meminfo3549.out
+meminfo3550.out
+meminfo3552.out
+meminfo3553.out
+meminfo3554.out
+meminfo3555.out
+meminfo3556.out
+meminfo3557.out
+meminfo4170.out
+meminfo4171.out
+meminfo4172.out
+meminfo4173.out
+meminfo4174.out
+meminfo4175.out
+meminfo4176.out
+meminfo4177.out
+meminfo4178.out
+meminfo4179.out
+meminfo4180.out
+meminfo4181.out
+meminfo4182.out
+meminfo4183.out
+meminfo4184.out
+meminfo4185.out
+meminfo4186.out
+meminfo4187.out
+meminfo4189.out
+meminfo4190.out
+meminfo4191.out
+meminfo4192.out
+meminfo4193.out
+meminfo4194.out
+meminfo5516.out
+meminfo5517.out
+meminfo5518.out
+meminfo5519.out
+meminfo5520.out
+meminfo5521.out
+meminfo5522.out
+meminfo5523.out
+meminfo5524.out
+meminfo5525.out
+meminfo5526.out
+meminfo5527.out
+meminfo5528.out
+meminfo5529.out
+meminfo5530.out
+meminfo5531.out
+meminfo5532.out
+meminfo5533.out
+meminfo5535.out
+meminfo5536.out
+meminfo5537.out
+meminfo5538.out
+meminfo5539.out
+meminfo5540.out
+meminfo5610.out
+meminfo5611.out
+meminfo5612.out
+meminfo5613.out
+meminfo5614.out
+meminfo5615.out
+meminfo5616.out
+meminfo5617.out
+meminfo5618.out
+meminfo5619.out
+meminfo5620.out
+meminfo5621.out
+meminfo5622.out
+meminfo5623.out
+meminfo5624.out
+meminfo5625.out
+meminfo5626.out
+meminfo5627.out
+meminfo5629.out
+meminfo5630.out
+meminfo5631.out
+meminfo5632.out
+meminfo5633.out
+meminfo5634.out
+public_html
+sponsors.indd
+sponsors.pdf
+surviving mutual funds.jpg
+testintmath.c
+testintmath.c~
+workspace
+~$antian Zha.doc
+~$uis et Scudery.doc
+#decomment.c#
+#hello#
+#testintmath.c#
+$RECYCLE.BIN
+10 Fall
+COS217
+Class Day Program
+ClusterDesktop
+ClusterDownloads
+MACOSXFILES
+MATLAB
+Music
+Pictures
+SSN documents
+Student Orgs
+TOPRINT
+TUTORIAL
+TUTORIAL~
+Thumbs.db
+Tiantian Zha.doc
+Videos
+Visual Studio 2008
+circle.c
+circle.c~
+decomment
+decomment.c~
+desktop.ini
+hello.c
+junk
+long term earnings.jpg
+meminfo1284.out
+meminfo1285.out
+meminfo1286.out
+meminfo1287.out
+meminfo1288.out
+meminfo1289.out
+meminfo1290.out
+meminfo1291.out
+meminfo1292.out
+meminfo1293.out
+meminfo1294.out
+meminfo1295.out
+meminfo1296.out
+meminfo1297.out
+meminfo1298.out
+meminfo1299.out
+meminfo1300.out
+meminfo1301.out
+meminfo1303.out
+meminfo1304.out
+meminfo1305.out
+meminfo1306.out
+meminfo1307.out
+meminfo1308.out
+meminfo20163.out
+meminfo20164.out
+meminfo20165.out
+meminfo20166.out
+meminfo20167.out
+meminfo20168.out
+meminfo20169.out
+meminfo20170.out
+meminfo20171.out
+meminfo20172.out
+meminfo20173.out
+meminfo20174.out
+meminfo20175.out
+meminfo20176.out
+meminfo20177.out
+meminfo20178.out
+meminfo20179.out
+meminfo20180.out
+meminfo20182.out
+meminfo20183.out
+meminfo20184.out
+meminfo20185.out
+meminfo20186.out
+meminfo20187.out
+meminfo2092.out
+meminfo2093.out
+meminfo2094.out
+meminfo2095.out
+meminfo2096.out
+meminfo2097.out
+meminfo2098.out
+meminfo2099.out
+meminfo2100.out
+meminfo2101.out
+meminfo2102.out
+meminfo2103.out
+meminfo2104.out
+meminfo2105.out
+meminfo2106.out
+meminfo2107.out
+meminfo2108.out
+meminfo2109.out
+meminfo2111.out
+meminfo2112.out
+meminfo2113.out
+meminfo2114.out
+meminfo2115.out
+meminfo2116.out
+meminfo24746.out
+meminfo26978.out
+meminfo26979.out
+meminfo26980.out
+meminfo26981.out
+meminfo26982.out
+meminfo26983.out
+meminfo26984.out
+meminfo26985.out
+meminfo26986.out
+meminfo26987.out
+meminfo26988.out
+meminfo26989.out
+meminfo26990.out
+meminfo26991.out
+meminfo26992.out
+meminfo26993.out
+meminfo26994.out
+meminfo26995.out
+meminfo26997.out
+meminfo26998.out
+meminfo26999.out
+meminfo27000.out
+meminfo27001.out
+meminfo27002.out
+meminfo27499.out
+meminfo27500.out
+meminfo27501.out
+meminfo27502.out
+meminfo27503.out
+meminfo27504.out
+meminfo27505.out
+meminfo27506.out
+meminfo27507.out
+meminfo27508.out
+meminfo27509.out
+meminfo27510.out
+meminfo27511.out
+meminfo27512.out
+meminfo27513.out
+meminfo27514.out
+meminfo27515.out
+meminfo27516.out
+meminfo27518.out
+meminfo27519.out
+meminfo27520.out
+meminfo27521.out
+meminfo27522.out
+meminfo27523.out
+meminfo28025.out
+meminfo28026.out
+meminfo28027.out
+meminfo28028.out
+meminfo28029.out
+meminfo28030.out
+meminfo28031.out
+meminfo3470.out
+meminfo3471.out
+meminfo3472.out
+meminfo3473.out
+meminfo3474.out
+meminfo3475.out
+meminfo3476.out
+meminfo3477.out
+meminfo3478.out
+meminfo3479.out
+meminfo3480.out
+meminfo3481.out
+meminfo3482.out
+meminfo3483.out
+meminfo3484.out
+meminfo3485.out
+meminfo3486.out
+meminfo3487.out
+meminfo3489.out
+meminfo3490.out
+meminfo3491.out
+meminfo3492.out
+meminfo3493.out
+meminfo3494.out
+meminfo3533.out
+meminfo3534.out
+meminfo3535.out
+meminfo3536.out
+meminfo3537.out
+meminfo3538.out
+meminfo3539.out
+meminfo3540.out
+meminfo3541.out
+meminfo3542.out
+meminfo3543.out
+meminfo3544.out
+meminfo3545.out
+meminfo3546.out
+meminfo3547.out
+meminfo3548.out
+meminfo3549.out
+meminfo3550.out
+meminfo3552.out
+meminfo3553.out
+meminfo3554.out
+meminfo3555.out
+meminfo3556.out
+meminfo3557.out
+meminfo4170.out
+meminfo4171.out
+meminfo4172.out
+meminfo4173.out
+meminfo4174.out
+meminfo4175.out
+meminfo4176.out
+meminfo4177.out
+meminfo4178.out
+meminfo4179.out
+meminfo4180.out
+meminfo4181.out
+meminfo4182.out
+meminfo4183.out
+meminfo4184.out
+meminfo4185.out
+meminfo4186.out
+meminfo4187.out
+meminfo4189.out
+meminfo4190.out
+meminfo4191.out
+meminfo4192.out
+meminfo4193.out
+meminfo4194.out
+meminfo5516.out
+meminfo5517.out
+meminfo5518.out
+meminfo5519.out
+meminfo5520.out
+meminfo5521.out
+meminfo5522.out
+meminfo5523.out
+meminfo5524.out
+meminfo5525.out
+meminfo5526.out
+meminfo5527.out
+meminfo5528.out
+meminfo5529.out
+meminfo5530.out
+meminfo5531.out
+meminfo5532.out
+meminfo5533.out
+meminfo5535.out
+meminfo5536.out
+meminfo5537.out
+meminfo5538.out
+meminfo5539.out
+meminfo5540.out
+meminfo5610.out
+meminfo5611.out
+meminfo5612.out
+meminfo5613.out
+meminfo5614.out
+meminfo5615.out
+meminfo5616.out
+meminfo5617.out
+meminfo5618.out
+meminfo5619.out
+meminfo5620.out
+meminfo5621.out
+meminfo5622.out
+meminfo5623.out
+meminfo5624.out
+meminfo5625.out
+meminfo5626.out
+meminfo5627.out
+meminfo5629.out
+meminfo5630.out
+meminfo5631.out
+meminfo5632.out
+meminfo5633.out
+meminfo5634.out
+public_html
+sponsors.indd
+sponsors.pdf
+surviving mutual funds.jpg
+testintmath.c
+testintmath.c~
+workspace
+~$antian Zha.doc
+~$uis et Scudery.doc
+% rm junk junk2 junk3 junk4
+% 
+% echo "*** ERRONEOUS COMMANDS"
+*** ERRONEOUS COMMANDS
+% echo "one
+% cd dir1 dir2
+% setenv
+% unsetenv
+% echo one >
+one
+% echo one > junk1 > junk2
+% cat < nosuchfile
+% nosuchcommand
+% 
+% echo "*** UNUSUAL COMMANDS"
+*** UNUSUAL COMMANDS
+% echo one ">" junk
+one > junk
+% echo one > ">"
+% cat ">"
+one
+% rm ">"
+% 

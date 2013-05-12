@@ -1,0 +1,8 @@
+ish: Unmached quote.
+ish : cd: Too many arguments.
+ish: setenv: Too few arguments.
+ish: unsetenv: Too few arguments.
+ish: Standard output redirection without file name
+ish: Multiple output tokens
+ish: nosuchfile: No such file or directory
+ish: nosuchcommand: No such file or directory

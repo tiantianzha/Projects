@@ -1,0 +1,13 @@
+
+echo "*** REDIRECTION"
+ls > junk
+cat junk
+cat < junk
+cat < junk > junk2
+cat junk2
+cat > junk3 < junk2
+cat junk3
+cat junk2 > junk4 junk3
+cat junk4
+rm junk junk2 junk3 junk4
+

@@ -1,0 +1,38 @@
+#include <stdio.h>
+#include <signal.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+
+static void my_handler2(int iSignal) {
+   printf("quit\n");
+   exit(0);
+}
+
+static void my_handler(int iSignal) {
+   printf("Press again in 5 seconds\n");
+   alarm(5);
+   signal(SIGQUIT, my_handler2);
+
+   return;
+}
+
+static void my_handler3(int iSignal) {
+   alarm(0);
+   printf("too long\n");
+   signal(SIGQUIT, my_handler);
+
+}
+
+int main(void) {
+
+   signal(SIGINT, SIG_IGN);
+   signal(SIGQUIT, my_handler);
+
+   for (;;) {
+      signal(SIGALRM, my_handler3);
+      printf("");
+   }
+   return 0;
+}
+

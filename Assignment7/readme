@@ -1,0 +1,51 @@
+readme
+Tiantian Zha
+Assignment 7
+
+Time spent:
+
+Started on Monday, done by Friday Night. So about 40+ hours.
+
+Help received:
+
+Alice Fuller explained that command.c was kind of a classification.
+
+Kevin Cheng told me about the supplementary information page.
+He also told me about strtol and getcwd which he used, and which
+ended up being a lot more complicated than was needed. 
+
+Ajay Roopakalu explained that a tedious but sometimes useful  
+debugging method is to write ONLY the new code in a separate file, 
+and transfer your old code piece by piece to figure out where the 
+error occurred. 
+
+Assessment of the assignment:
+
+I thought memory management was the most difficult part, because
+each line of input could terminate in so many different places 
+(could be an empty line, wrong input, etc) so it was easy to forget
+to free things.
+I'm fairly certain that my program terminates with a clean meminfo
+report when the user exits with a call to exit. I didn't know that
+this wasn't a requirement, so I spent a very long time working on
+this.
+Signal handling was also really hard. For a very long time I couldn't
+get #include <signal.h> to work (and that is why I have such a long
+readme...)
+I also thought that the most challenging parts were the parts that we
+had never done in class. For example, I had trouble figuring out how
+to process the ishrc file, how to call chdir, simply because we had
+never had experience with those.
+
+Known bugs: Not a bug, but:
+
+signal handling is not in its own module. I had mysterious bugs when
+it was by itself, and the bugs went away when the functions were in 
+ish.c 
+
+Spling warnings:
+
+token.h: exports Token_newToken and Token_freeToken, which are not
+used outside of token.c. I chose not to make them static, because
+I wanted to design a module with more functions than was necessary
+for this project. 

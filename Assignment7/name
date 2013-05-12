@@ -1,0 +1,124 @@
+7[?47h[?1h=[23;1H[7m----:---F1  [m[m[7m[1m*scratch*   [m[m[7m      (Fundamental)--L1--All----------------------------[m[m
+[A[H[24;1HLoading disp-table...[K[H[24;22Hdone[H[H[2J[24;1HLoading /usr/share/emacs/site-lisp/site-start.d/anthy-init.el (source)...[K[H
+[24;74Hdone[H
+[24;49Hgnuplot-init.el (source)...[K[H
+[24;76Hdone[H
+[24;49Higrep-init.el (source)...[K[H
+[24;74Hdone[H
+[24;1Hurce)...[K[H[7mFile Edit Options Buffers Tools Help                                            [m[m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m----:---F1  [m[m[7m[1m*scratch*   [m[m[7m      (Fundamental)--L1--All----------------------------[m[m
+[A
+Loading /usr/share/emacs/site-lisp/site-start.d/lang-coding-systems-init.el (so\
+[A[H
+[24;9Hdone[H
+[24;1H[K[23;49Hphp-mode-init.el (source)...[K[H
+[24;1He[23;77Hdon\
+[H
+[24;1H[K[23;50Ho-mode-init.el (source)...[K[H
+[23;76Hdone[H
+[23;50Hsgml-init.el (source)...[K[H
+[23;74Hdone[H
+[23;50Hython-mode-init.el (source)...[H
+[24;1Hdone[23;80H\
+[H
+[24;1H..[K[23;49Hrpm-spec-mode-init.el (source)[H
+[24;3Hdone[H
+[24;1H[K[23;49Htramp-init.el (source)...[K[H
+[23;74Hdone[H
+[23;9Hfont-lock...[K[H
+[24;1H[K[ALoading regexp-opt...[K[H
+[23;22Hdone[H
+[23;9Hfont-lock...done[K[H
+[23;9Hparen...[K[H
+[24;1H[K[ALoading paren...done[K[H
+[23;9Hjka-compr...[H
+[23;21Hdone[H
+[24;1HFor information about the GNU Project and its goals, type C-h C-p.[H[7mFile Edit Options Buffers Tools Help                                            [m[m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m----:---F1  [m[m[7m[1m*scratch*   [m[m[7m      (Lisp Interaction)--L1--C0--All-------------------[m[m
+[H
+[24;1H(New file)[K[H
+[24;1H(New file)[K[H[7mFile Edit Options Buffers Tools Help                                            [m[m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m----:---F1  [m[m[7m[1mfile        [m[m[7m      (Fundamental)--L1--C0--All------------------------[m[m
+[A[H
+[24;1H[K[H
+s[23;6H[7m**-F1  [m[m[7m[1mfile        [m[m[7m      (Fundamental)--L1--C1[m[m[2;2Hl[23;51H[7m2[m[m[2;3Hd[23;51H[7m3[m[m[2;4H[23;47H[7m2--C0[m[m[H
+
+[23;47H[7m1[m[m[H
+[23;47H[7m2[m[m[H
+
+[24;1HSave file /u/tzha/COS217/Assignment7/file? (y, n, !, ., q, C-r or C-h)	ESCQuit[K[H
+
+[24;1H[K[H
+
+[24;1HAuto-saving...[H
+
+[24;15Hdone[H
+
+[24;1H[K[H
+
+e[23;51H[7m1[m[m[3;2H[24;1HC-c[3;2H[24;4H-[3;2H[24;4H C-d[3;2H[24;1HInput method:[1;33H[7mMinibuf Help[m[m[24;15HNo further undo informationInput method:[K[C
